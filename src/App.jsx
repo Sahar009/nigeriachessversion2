@@ -1,12 +1,22 @@
-import { useState } from 'react'
 
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './App.css'
+import { Home } from './features/Home/Home'
+import { Gallery } from './features/gallery/Gallery'
 
 function App() {
 
   return (
     <>
-      <h1>Hello World</h1>
+    <BrowserRouter>
+     <Routes>
+      <Route path="/" element={<Home/>} />
+      <Route path='gallery' element={<Gallery/>} />
+    </Routes>
+    
+    </BrowserRouter>
+    
+     
     </>
   )
 }
