@@ -1,5 +1,5 @@
 import { Button } from "../../components/Button"
-import leftVideo from '../../assets/image/Animation - 1739886508156 (1).webm'
+import leftVideo from '../../assets/image/Animation - 1739886508156 (1).mp4'
 import Aos from "aos"
 import "aos/dist/aos.css";
 import { useEffect } from "react"; 
@@ -14,10 +14,8 @@ export const Feedback = () => {
   return (
     <div className="w-full  lg:flex overflow-x-hidden">
         <div
-         className="lg:w-1/2 hidden lg:flex items-center justify-center" data-aos="fade-left">
-            <video className="w-80" autoPlay loop muted playsInline>
-             <source src={leftVideo} type="video/webm"/>
-            </video>
+         className="lg:w-1/2 hidden lg:flex items-center justify-center" data-aos="fade-right">
+            <iframe className="w-96 h-80" src="https://lottie.host/embed/897666e7-2690-49f6-ad42-e742a62c15d8/MiOyhg9Umc.lottie"></iframe>
           </div>
         <div className="w-full lg:w-1/2 flex flex-col space-y-5 px-4  lg:px-16">
            <div>

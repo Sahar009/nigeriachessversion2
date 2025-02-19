@@ -13,7 +13,7 @@ export const Slider = () => {
         <Marquee >
         <div className="w-full  flex justify-around items-center space-x-5">
         {SliderImg.map((image, index) => (
-        <div className="w-60 h-48" key={index}>
+        <div className="w-40 h-32" key={index}>
        <img className="w-full h-full object-cover rounded-xl" src={image} alt={`slider-${index}`} />
        </div>
   ))}

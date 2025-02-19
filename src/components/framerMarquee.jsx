@@ -1,10 +1,5 @@
-import  { useRef, useEffect } from "react";
-import {
-  motion,
-  useSpring,
-  useTransform,
-  // useMotionValue
-} from "framer-motion";
+import { useRef, useEffect } from "react";
+import { motion, useSpring, useTransform } from "framer-motion";
 import normalizeWheel from "normalize-wheel";
 import { useRafLoop } from "react-use";
 import { useWindowSize } from "@react-hook/window-size";
@@ -33,7 +28,7 @@ const MarqueeItem = ({ children, speed }) => {
   }, [width, height]);
 
   const loop = () => {
-    x.current -= speed.get();
+    x.current -= speed.get(); // Control direction
     setX();
   };
 
@@ -46,22 +41,15 @@ const MarqueeItem = ({ children, speed }) => {
   return <motion.div className="item" ref={itemRef}>{children}</motion.div>;
 };
 
-const Marquee = ({
-  speed = 1,
-  threshold = 0.014,
-  wheelFactor = 1.8,
-  dragFactor = 1.2,
-  children
-}) => {
+const Marquee = ({ speed = 1, threshold = 0.014, wheelFactor = 1.8, dragFactor = 1.2, children }) => {
   const marqueeRef = useRef(null);
   const slowDown = useRef(false);
   const isScrolling = useRef(null);
   const x = useRef(0);
-  const [wWidth] = useWindowSize();
+  const [Width] = useWindowSize();
+  
   const speedSpring = useSpring(speed, { damping: 40, stiffness: 90, mass: 5 });
-
-  const opacity = useTransform(speedSpring, [-wWidth * 0.05, 0, wWidth * 0.05], [1, 0, 1]);
-  const skewX = useTransform(speedSpring, [-wWidth * 0.05, 0, wWidth * 0.05], [1, 0, 1]);
+  const reverseSpeedSpring = useSpring(-speed, { damping: 40, stiffness: 90, mass: 5 }); // Reverse speed
 
   const handleOnWheel = (e) => {
     const normalized = normalizeWheel(e);
@@ -73,6 +61,7 @@ const Marquee = ({
 
     isScrolling.current = setTimeout(() => {
       speedSpring.set(speed);
+      reverseSpeedSpring.set(-speed);
     }, 30);
   };
 
@@ -80,10 +69,12 @@ const Marquee = ({
     slowDown.current = true;
     marqueeRef.current.classList.add("drag");
     speedSpring.set(0);
+    reverseSpeedSpring.set(0);
   };
 
   const handleOnDrag = (_, info) => {
     speedSpring.set(dragFactor * -info.delta.x);
+    reverseSpeedSpring.set(dragFactor * info.delta.x);
   };
 
   const handleDragEnd = () => {
@@ -92,22 +83,14 @@ const Marquee = ({
     x.current = speed;
   };
 
-  const loop = () => {
-    if (slowDown.current || Math.abs(x.current) < threshold) return;
-    x.current *= 0.66;
-    x.current = x.current < 0 ? Math.min(x.current, 0) : Math.max(x.current, 0);
-    speedSpring.set(speed + x.current);
-  };
-
-  useRafLoop(loop);
-
   return (
-    <>
-      <div className="flex space-x-5">
+    <div className="flex flex-col space-y-5">
+
+      <div className="flex">
+           
       <motion.div
         className="marquee"
         ref={marqueeRef}
-        style={{ skewX }}
         onWheel={handleOnWheel}
         drag="x"
         dragPropagation={true}
@@ -115,14 +98,15 @@ const Marquee = ({
         onDragStart={handleDragStart}
         onDrag={handleOnDrag}
         onDragEnd={handleDragEnd}
-        dragElastic={0.000001} 
+        dragElastic={0.000001}
       >
         <MarqueeItem speed={speedSpring}>{children}</MarqueeItem>
       </motion.div>
+
+       
       <motion.div
         className="marquee"
         ref={marqueeRef}
-        style={{ skewX }}
         onWheel={handleOnWheel}
         drag="x"
         dragPropagation={true}
@@ -130,15 +114,47 @@ const Marquee = ({
         onDragStart={handleDragStart}
         onDrag={handleOnDrag}
         onDragEnd={handleDragEnd}
-        dragElastic={0.000001} 
+        dragElastic={0.000001}
       >
         <MarqueeItem speed={speedSpring}>{children}</MarqueeItem>
       </motion.div>
-     
-     
-      
       </div>
-    </>
+      
+    <div className="flex ">
+         
+      <motion.div
+        className="marquee"
+        ref={marqueeRef}
+        onWheel={handleOnWheel}
+        drag="x"
+        dragPropagation={true}
+        dragConstraints={{ left: 0, right: 0 }}
+        onDragStart={handleDragStart}
+        onDrag={handleOnDrag}
+        onDragEnd={handleDragEnd}
+        dragElastic={0.000001}
+      >
+        <MarqueeItem speed={reverseSpeedSpring}>{children}</MarqueeItem> 
+      </motion.div>
+
+       
+       <motion.div
+        className="marquee"
+        ref={marqueeRef}
+        onWheel={handleOnWheel}
+        drag="x"
+        dragPropagation={true}
+        dragConstraints={{ left: 0, right: 0 }}
+        onDragStart={handleDragStart}
+        onDrag={handleOnDrag}
+        onDragEnd={handleDragEnd}
+        dragElastic={0.000001}
+      >
+        <MarqueeItem speed={reverseSpeedSpring}>{children}</MarqueeItem> 
+      </motion.div>
+    </div>
+     
+    </div>
   );
 };
 
