@@ -4,6 +4,9 @@ import { GiChessKing, GiChessQueen } from "react-icons/gi";
 import { SponsorsSection } from "../components/SponsorsSection";
 import { useDarkMode } from "../context/DarkModeContext";
 import { TournamentOverview } from "../components/TournamentOverview";
+import { NewsSection } from "../components/NewsSection";
+import { BenefitsSection } from "../components/BenefitsSection";
+import { TestimonialsSection } from "../components/TestimonialsSection";
 
 export const Home = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -30,8 +33,8 @@ export const Home = () => {
   
   return (
     <>
-      <div className={`pt-24 ${isDarkMode ? "bg-gray-900 text-white" : "bg-white text-black"}`}>
-        <div className="container mx-auto px-4 sm:px-6 md:px-8 lg:px-16 xl:px-20 py-8 md:py-12">
+      <main className={`pt-24 ${isDarkMode ? "bg-gray-900 text-white" : "bg-white text-black"}`}>
+        <article className="container mx-auto px-4 sm:px-6 md:px-8 lg:px-16 xl:px-20 py-8 md:py-12">
           <div className="flex flex-col md:flex-row items-center gap-8 md:gap-12">
             {/* Text Content - Left Side */}
             <div className="w-full md:w-1/2 space-y-4 md:space-y-6">
@@ -121,6 +124,11 @@ export const Home = () => {
         <SponsorsSection />
       </div>
       <TournamentOverview />
+
+      <BenefitsSection/>
+      <NewsSection/>
+      <TestimonialsSection/>
+     
     </>
   );
-}; 
+};
