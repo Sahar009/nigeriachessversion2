@@ -7,6 +7,7 @@ import { TournamentOverview } from "../components/TournamentOverview";
 import { NewsSection } from "../components/NewsSection";
 import { BenefitsSection } from "../components/BenefitsSection";
 import { TestimonialsSection } from "../components/TestimonialsSection";
+import { Link } from 'react-router-dom';
 
 export const Home = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -53,22 +54,24 @@ export const Home = () => {
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row gap-4 pt-2">
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_RAOv2twjRa80U0aqiScz3idEWs20zrx81I-1NXXy12olNQ/viewform" target="_blank" rel="noopener noreferrer">
-             <button className={`px-6 py-3 rounded-lg transition-all text-white font-medium ${
-                  isDarkMode 
-                    ? "bg-blue-500 hover:bg-blue-600" 
-                    : "bg-blue-600 hover:bg-blue-700"
-                }`}>
-                  Register Schools
-                </button>
-             </a>
-                <button className={`px-6 py-3 rounded-lg transition-all font-medium ${
-                  isDarkMode 
-                    ? "border border-gray-600 text-gray-200 hover:bg-gray-800" 
-                    : "border border-dark-gray hover:bg-gray-100"
-                }`}>
-                  Tournament Details
-                </button>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_RAOv2twjRa80U0aqiScz3idEWs20zrx81I-1NXXy12olNQ/viewform" target="_blank" rel="noopener noreferrer">
+                  <button className={`px-6 py-3 rounded-lg transition-all text-white font-medium ${
+                    isDarkMode 
+                      ? "bg-blue-500 hover:bg-blue-600" 
+                      : "bg-blue-600 hover:bg-blue-700"
+                  }`}>
+                    Register Schools
+                  </button>
+                </a>
+                <Link to="/tournament-details">
+                  <button className={`px-6 py-3 rounded-lg transition-all font-medium ${
+                    isDarkMode 
+                      ? "border border-gray-600 text-gray-200 hover:bg-gray-800" 
+                      : "border border-dark-gray hover:bg-gray-100"
+                  }`}>
+                    Tournament Details
+                  </button>
+                </Link>
               </div>
             </div>
             

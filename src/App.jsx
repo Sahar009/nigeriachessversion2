@@ -10,6 +10,7 @@ import { Register } from './pages/Register'
 import { Gallery } from './pages/Gallery'
 import { DarkModeProvider } from './context/DarkModeContext'
 import { Footer } from './components/Footer/Footer'
+import { TournamentDetails } from './pages/TournamentDetails';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/register" element={<Register />} />
             <Route path="/gallery" element={<Gallery />} />
+            <Route path="/tournament-details" element={<TournamentDetails />} />
           </Routes>
           <Footer/>
           <WhatsAppFloat />
