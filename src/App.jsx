@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import { HelmetProvider } from 'react-helmet-async'
 import './App.css'
 import { Nav } from './components/Nav/Nav'
+import { WhatsAppFloat } from './components/WhatsAppFloat'
 import { Home } from './pages/Home'
 import { About } from './pages/About'
 import { Contact } from './pages/Contact'
@@ -13,7 +13,7 @@ import { Footer } from './components/Footer/Footer'
 
 function App() {
   return (
-    <HelmetProvider>
+    <>
       <DarkModeProvider>
         <BrowserRouter>
           <Nav />
@@ -26,9 +26,10 @@ function App() {
             <Route path="/gallery" element={<Gallery />} />
           </Routes>
           <Footer/>
+          <WhatsAppFloat />
         </BrowserRouter>
       </DarkModeProvider>
-    </HelmetProvider>
+    </>
   )
 }
 

@@ -90,10 +90,10 @@ export const TournamentOverview = () => {
                 <h3 className="text-xl font-semibold">Dates</h3>
               </div>
               <p className={isDarkMode ? "text-gray-300" : "text-gray-600"}>
-                September 15-18, 2024
+              26th - 28th June, 2025
               </p>
               <p className={`mt-2 ${isDarkMode ? "text-gray-400" : "text-gray-500"}`}>
-                Registration closes August 31, 2024
+                Registration closes June,24th 2025
               </p>
             </motion.div>
             
@@ -111,10 +111,10 @@ export const TournamentOverview = () => {
                 <h3 className="text-xl font-semibold">Venue</h3>
               </div>
               <p className={isDarkMode ? "text-gray-300" : "text-gray-600"}>
-                Ecobank Conference Center
+              Pan African Centre
               </p>
               <p className={`mt-2 ${isDarkMode ? "text-gray-400" : "text-gray-500"}`}>
-                Independence Avenue, Accra
+              Ecobank HQ, Victoria Island, Lagos State.
               </p>
             </motion.div>
             
@@ -153,7 +153,7 @@ export const TournamentOverview = () => {
                 <h3 className="text-xl font-semibold">Prizes</h3>
               </div>
               <p className={isDarkMode ? "text-gray-300" : "text-gray-600"}>
-                Over $5,000 in total prizes
+                Over₦10,0000 total in prizes
               </p>
               <p className={`mt-2 ${isDarkMode ? "text-gray-400" : "text-gray-500"}`}>
                 Trophies, medals, and chess equipment
@@ -214,7 +214,8 @@ export const TournamentOverview = () => {
             variants={itemVariants}
             className="text-center mt-12"
           >
-            <motion.button
+          <a  href="https://docs.google.com/forms/d/e/1FAIpQLSf_RAOv2twjRa80U0aqiScz3idEWs20zrx81I-1NXXy12olNQ/viewform" target="_blank">
+          <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className={`px-8 py-4 rounded-lg text-white font-medium text-lg ${
@@ -223,6 +224,8 @@ export const TournamentOverview = () => {
             >
               Register Your School Now
             </motion.button>
+            </a>
+        
             <p className={`mt-4 ${isDarkMode ? "text-gray-400" : "text-gray-500"}`}>
               Limited spots available. Don't miss this opportunity!
             </p>

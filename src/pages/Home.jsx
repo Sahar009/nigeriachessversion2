@@ -24,7 +24,7 @@ export const Home = () => {
   }, []);
   
   // Use only the first 5 images from the SliderImg array
-  const sliderImages = SliderImg.slice(0, 5);
+  const sliderImages = SliderImg.slice(2,11);
   
   // Function to handle manual navigation
   const goToImage = (index) => {
@@ -53,13 +53,15 @@ export const Home = () => {
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row gap-4 pt-2">
-                <button className={`px-6 py-3 rounded-lg transition-all text-white font-medium ${
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_RAOv2twjRa80U0aqiScz3idEWs20zrx81I-1NXXy12olNQ/viewform" target="_blank" rel="noopener noreferrer">
+             <button className={`px-6 py-3 rounded-lg transition-all text-white font-medium ${
                   isDarkMode 
                     ? "bg-blue-500 hover:bg-blue-600" 
                     : "bg-blue-600 hover:bg-blue-700"
                 }`}>
                   Register Schools
                 </button>
+             </a>
                 <button className={`px-6 py-3 rounded-lg transition-all font-medium ${
                   isDarkMode 
                     ? "border border-gray-600 text-gray-200 hover:bg-gray-800" 
@@ -102,7 +104,8 @@ export const Home = () => {
               {/* Navigation Dots */}
               <div className="flex justify-center mt-4 space-x-2">
                 {sliderImages.map((_, index) => (
-                  <button
+                  
+            <button
                     key={index}
                     onClick={() => goToImage(index)}
                     className={`w-2 h-2 sm:w-3 sm:h-3 rounded-full transition-all ${
@@ -116,8 +119,8 @@ export const Home = () => {
               </div>
             </div>
           </div>
-        </div>
-      </div>
+        </article>
+      </main>
       
       {/* Sponsors Section */}
       <div className={isDarkMode ? "bg-gray-800" : ""}>

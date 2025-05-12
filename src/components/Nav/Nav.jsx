@@ -1,10 +1,11 @@
 import { useState, useEffect } from "react";
-import navlogo from "../../assets/image/Chess Championship-02.png";
 import { Button } from "../Button";
 import { Link } from "react-router-dom";
 import { HiBarsArrowDown, HiBarsArrowUp } from "react-icons/hi2";
 import { FiSun, FiMoon } from "react-icons/fi";
 import { useDarkMode } from "../../context/DarkModeContext";
+
+const LOGO_URL = "https://res.cloudinary.com/do537qymc/image/upload/v1747035079/Chess_Championship-02_qbkycl.png";
 
 export const Nav = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -41,7 +42,7 @@ export const Nav = () => {
         {/* Logo */}
         <Link to='/'>
           <div className="w-36">
-            <img src={navlogo} alt="logo" className={isDarkMode ? "filter brightness-150" : ""} />
+            <img src={LOGO_URL} alt="logo" className={isDarkMode ? "filter brightness-150" : ""} />
           </div>
         </Link>
 
@@ -76,24 +77,24 @@ export const Nav = () => {
             }`}>
               <Link to='/gallery'>Gallery</Link>
             </li>
-            <li className={`cursor-pointer transition-colors ${
+            {/* <li className={`cursor-pointer transition-colors ${
               isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
             }`}>
               <Link to='/tutorials'>Tutorials</Link>
-            </li>
-            <li className={`cursor-pointer transition-colors ${
+            </li> */}
+            {/* <li className={`cursor-pointer transition-colors ${
               isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
             }`}>
               <Link to='/contact'>Contact</Link>
-            </li>
+            </li> */}
           </ul>
-          <Link to="/register">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_RAOv2twjRa80U0aqiScz3idEWs20zrx81I-1NXXy12olNQ/viewform" target="_blank" rel="noopener noreferrer">
             <Button 
               label="Register" 
               background={isDarkMode ? "bg-blue-500" : "bg-blue-600"}
               hoverBackground={isDarkMode ? "hover:bg-blue-600" : "hover:bg-blue-700"}
             />
-          </Link>
+          </a>
         </div>
 
         {/* Mobile Menu Icon and Dark Mode Toggle */}
@@ -145,16 +146,16 @@ export const Nav = () => {
           }`}>
             <Link to='/gallery'>Gallery</Link>
           </li>
-          <li className={`cursor-pointer transition-colors ${
+          {/* <li className={`cursor-pointer transition-colors ${
             isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
           }`}>
             <Link to='/tutorials'>Tutorials</Link>
-          </li>
-          <li className={`cursor-pointer transition-colors ${
+          </li> */}
+          {/* <li className={`cursor-pointer transition-colors ${
             isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
           }`}>
             <Link to='/contact'>Contact</Link>
-          </li>
+          </li> */}
         </ul>
         <Link to="/register" className="w-full">
           <Button 
