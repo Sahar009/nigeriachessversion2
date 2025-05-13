@@ -153,7 +153,7 @@ export const TournamentOverview = () => {
                 <h3 className="text-xl font-semibold">Prizes</h3>
               </div>
               <p className={isDarkMode ? "text-gray-300" : "text-gray-600"}>
-                Over₦10,0000 total in prizes
+                Over ₦10,000,000 total in prizes
               </p>
               <p className={`mt-2 ${isDarkMode ? "text-gray-400" : "text-gray-500"}`}>
                 Trophies, medals, and chess equipment
