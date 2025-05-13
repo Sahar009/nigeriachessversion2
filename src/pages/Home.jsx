@@ -125,6 +125,30 @@ export const Home = () => {
         </article>
       </main>
       
+      {/* Video Section */}
+      <section className={`py-16 ${isDarkMode ? "bg-gray-800" : "bg-gray-50"}`}>
+        <div className="container mx-auto px-4 sm:px-6 md:px-8 lg:px-16 xl:px-20">
+          <div className="text-center mb-12">
+            <h2 className={`text-3xl md:text-4xl font-bold mb-4 ${isDarkMode ? "text-white" : "text-gray-900"}`}>
+              Watch Our Tournament Highlights
+            </h2>
+            <p className={`text-lg ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}>
+              Experience the excitement and intensity of our chess championships
+            </p>
+          </div>
+          
+          <div className="relative w-full max-w-4xl mx-auto aspect-video rounded-xl overflow-hidden shadow-2xl">
+            <iframe
+              src="https://res.cloudinary.com/do537qymc/video/upload/v1747139769/WhatsApp_Video_2024-05-28_at_20.41.16_7b82ad10_nhopfx.mp4"
+              title="Chess Championship Highlights"
+              className="absolute top-0 left-0 w-full h-full"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+        </div>
+      </section>
+
       {/* Sponsors Section */}
       <div className={isDarkMode ? "bg-gray-800" : ""}>
         <SponsorsSection />
