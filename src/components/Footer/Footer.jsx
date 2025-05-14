@@ -106,7 +106,7 @@ export const Footer = () => {
               </a>
             </div>
             <p className={`${isDarkMode ? 'text-gray-400' : 'text-gray-600'} text-center`}>
-              © {new Date().getFullYear()} Nigeria Chess Championship. All rights reserved.
+              © {new Date().getFullYear()} Nigeria Chess Championship 2025. All rights reserved.
             </p>
           </div>
         </div>
