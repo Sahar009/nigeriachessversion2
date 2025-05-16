@@ -191,6 +191,14 @@ export const TournamentOverview = () => {
                     alt="Students playing chess at previous tournament" 
                     className="w-full h-64 object-cover transform transition-transform duration-500 hover:scale-110"
                   />
+                  <div className={`p-4 ${isDarkMode ? "bg-gray-800" : "bg-white"}`}>
+                    <h4 className="font-bold mb-2">PRIMARY</h4>
+                    <ol className="list-decimal list-inside space-y-1">
+                      <li>marvelvine Montessori School</li>
+                      <li>Scholars Academy, Ibadan</li>
+                      <li>Okikioluwa Junior Academy</li>
+                    </ol>
+                  </div>
                 </motion.div>
                 
                 <motion.div 
@@ -203,6 +211,14 @@ export const TournamentOverview = () => {
                     alt="Award ceremony from last year's tournament" 
                     className="w-full h-64 object-cover transform transition-transform duration-500 hover:scale-110"
                   />
+                  <div className={`p-4 ${isDarkMode ? "bg-gray-800" : "bg-white"}`}>
+                    <h4 className="font-bold mb-2">SECONDARY</h4>
+                    <ol className="list-decimal list-inside space-y-1">
+                      <li>Dayspring Schools</li>
+                      <li>Platform Schools</li>
+                      <li>Ireti Senior Grammar School</li>
+                    </ol>
+                  </div>
                 </motion.div>
                 
                 <motion.div 
@@ -215,6 +231,14 @@ export const TournamentOverview = () => {
                     alt="Students analyzing chess positions" 
                     className="w-full h-64 object-cover transform transition-transform duration-500 hover:scale-110"
                   />
+                  <div className={`p-4 ${isDarkMode ? "bg-gray-800" : "bg-white"}`}>
+                    <h4 className="font-bold mb-2">TERTIARY</h4>
+                    <ol className="list-decimal list-inside space-y-1">
+                      <li>University of Lagos</li>
+                      <li>University Of Benin</li>
+                      <li>Chess in Slums Africa</li>
+                    </ol>
+                  </div>
                 </motion.div>
               </div>
             </motion.div>
