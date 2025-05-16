@@ -5,10 +5,10 @@ import { FaTrophy, FaChessBoard, FaCalendarAlt, FaMapMarkerAlt, FaArrowRight,FaU
 import { Link } from "react-router-dom";
 import { TournamentStatsModal } from "./TournamentStatsModal";
 
-// Import images (update paths to your actual images)
-import tournamentImage1 from "../assets/winner-primary.jpeg";
-import tournamentImage2 from "../assets/winnersecondary.jpeg";
-import tournamentImage3 from "../assets/winnertertiary.jpeg";
+// Remove the imports and declare the URLs as constants
+const tournamentImage1 = "https://res.cloudinary.com/do537qymc/image/upload/v1747374682/winner-primary_xrhs2s.jpg";
+const tournamentImage2 = "https://res.cloudinary.com/do537qymc/image/upload/v1747374683/winnersecondary_zc5r4w.jpg";
+const tournamentImage3 = "https://res.cloudinary.com/do537qymc/image/upload/v1747374682/winnertertiary_yagcjt.jpg";
 
 export const TournamentOverview = () => {
   const { isDarkMode } = useDarkMode();
