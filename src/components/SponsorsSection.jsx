@@ -7,6 +7,7 @@ import { useState, useEffect } from "react";
 import ecobankLogo from "../assets/image/sponsors/ecobank.png";
 import fidelogo from '../assets/image/sponsors/fide.png';
 import ncflogo from '../assets/image/sponsors/ncf old.png';
+import mtnLogo from "../assets/image/sponsors/mtn.png"
 
 export const SponsorsSection = () => {
   const { isDarkMode } = useDarkMode();
@@ -15,8 +16,8 @@ export const SponsorsSection = () => {
   const sponsors = [
     { id: 1, name: "Ecobank", logo: ecobankLogo },
     { id: 2, name: "FIDE", logo: fidelogo},
-    
-    { id: 3, name: "NCF", logo: ncflogo},
+    { id: 4, name: "NCF", logo: ncflogo},
+    { id: 3, name: "MTN", logo: mtnLogo},
   ];
 
   useEffect(() => {

@@ -79,7 +79,7 @@ export const TournamentOverview = () => {
             {/* Key Information Cards */}
             <motion.div 
               variants={containerVariants}
-              className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"
+              className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6"
             >
               {/* Date Card */}
               <motion.div 
@@ -155,25 +155,22 @@ export const TournamentOverview = () => {
             </motion.div>
             
             {/* Image Gallery */}
-            <motion.div variants={containerVariants} className="mt-16">
+            <motion.div variants={containerVariants} className="mt-8 sm:mt-16">
               <motion.h3 
                 variants={itemVariants}
-                className="text-2xl font-bold mb-8 text-center"
+                className="text-xl sm:text-2xl font-bold mb-4 sm:mb-8 text-center"
               >
                 Previous Tournaments
               </motion.h3>
-              <p className={`text-sm flex text-center  ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}>
-              The Ecobank 2024 National Schools Team Chess Championship was an impressive event that drew widespread attention from schools and institutions across Nigeria and the African continent. The tournament brought together over 1,200 students from more than 240 schools, representing primary, secondary, and tertiary education levels. This marked the largest gathering of youth for a single tournament in Nigeria, the largest in West Africa, and the second largest in Africa—an unprecedented achievement made possible by the dedicated efforts of the Nigerian Chess Federation (NCF) and the remarkable support from Ecobank. Competitors from five of the six geopolitical zones in Nigeria: Southwest, Southsouth, Southeast, North Central, and North West were represented.
-              The three-day event culminated in the crowning of three winners in each category: Marvelvine Montessori School in Lagos for the Primary category, Dayspring College in Ibadan for the Secondary category, and the University of Lagos for the Tertiary category.              </p>
               
               {/* Add Stats Button */}
               <motion.div
                 variants={itemVariants}
-                className="text-center mb-8 mt-8"
+                className="text-center mb-4 sm:mb-8"
               >
                 <button
                   onClick={() => setIsStatsModalOpen(true)}
-                  className={`px-6 py-3 rounded-lg transition-all ${
+                  className={`w-full sm:w-auto px-4 sm:px-6 py-2 sm:py-3 rounded-lg transition-all ${
                     isDarkMode 
                       ? "bg-blue-500 hover:bg-blue-600" 
                       : "bg-blue-600 hover:bg-blue-700"
@@ -183,7 +180,7 @@ export const TournamentOverview = () => {
                 </button>
               </motion.div>
   
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
                 <motion.div 
                   variants={imageVariants}
                   whileHover={{ scale: 1.03 }}
@@ -247,12 +244,16 @@ export const TournamentOverview = () => {
             </motion.div>
   
             {/* Register Button */}
-            <motion.div variants={itemVariants} className="text-center">
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_RAOv2twjRa80U0aqiScz3idEWs20zrx81I-1NXXy12olNQ/viewform" target="_blank" rel="noopener noreferrer">
+            <motion.div variants={itemVariants} className="text-center mt-8 sm:mt-12">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_RAOv2twjRa80U0aqiScz3idEWs20zrx81I-1NXXy12olNQ/viewform" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="block w-full sm:w-auto sm:inline-block"
+              >
                 <motion.button
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  className={`px-8 py-4 rounded-lg text-white font-medium text-lg ${
+                  className={`w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 rounded-lg text-white font-medium text-base sm:text-lg ${
                     isDarkMode ? "bg-blue-500 hover:bg-blue-600" : "bg-blue-600 hover:bg-blue-700"
                   } transition-all shadow-lg`}
                 >

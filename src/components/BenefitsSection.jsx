@@ -33,23 +33,23 @@ export const BenefitsSection = () => {
   ];
 
   return (
-    <section className={`py-16 ${isDarkMode ? "bg-gray-900 text-white" : "bg-white text-gray-800"}`}>
-      <div className="container mx-auto px-4">
+    <section className={`py-8 sm:py-16 ${isDarkMode ? "bg-gray-900 text-white" : "bg-white text-gray-800"}`}>
+      <div className="container mx-auto px-4 sm:px-6">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
-          className="text-center mb-12"
+          className="text-center mb-8 sm:mb-12"
         >
-          <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">
+          <h2 className="text-2xl sm:text-4xl font-bold mb-3 sm:mb-4 bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">
             Why Participate?
           </h2>
-          <p className={`max-w-2xl mx-auto ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}>
+          <p className={`max-w-2xl mx-auto text-sm sm:text-base ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}>
             Discover the many benefits of participating in the National Schools Team Chess Championship
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-8">
           {benefits.map((benefit, index) => (
             <motion.div
               key={index}
@@ -71,14 +71,14 @@ export const BenefitsSection = () => {
                 <source src={benefit.video} type="video/mp4" />
               </video>
 
-              <div className="relative p-8 z-10 backdrop-blur-sm">
-                <div className={`text-5xl mb-6 transform group-hover:scale-110 transition-transform ${
+              <div className="relative p-4 sm:p-8 z-10 backdrop-blur-sm">
+                <div className={`text-4xl sm:text-5xl mb-4 sm:mb-6 transform group-hover:scale-110 transition-transform ${
                   isDarkMode ? "text-blue-400" : "text-blue-600"
                 }`}>
                   {benefit.icon}
                 </div>
-                <h3 className="text-2xl font-bold mb-4">{benefit.title}</h3>
-                <p className={`${isDarkMode ? "text-gray-300" : "text-gray-600"}`}>
+                <h3 className="text-xl sm:text-2xl font-bold mb-2 sm:mb-4">{benefit.title}</h3>
+                <p className={`text-sm sm:text-base ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}>
                   {benefit.description}
                 </p>
               </div>
