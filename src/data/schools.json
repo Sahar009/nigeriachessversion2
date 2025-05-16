@@ -1308,35 +1308,8 @@
         "__EMPTY_5": "EKUNDAYO LIGHT",
         "__EMPTY_6": "MUSA DAVID",
         "__EMPTY_7": "MR. UFOT BENJAMIN VICTOR"
-      },
-      {
-        "__EMPTY_4": "Lagos",
-        "__EMPTY_5": 103
-      },
-      {
-        "__EMPTY_4": "Ogun",
-        "__EMPTY_5": 5
-      },
-      {
-        "__EMPTY_4": "Oyo",
-        "__EMPTY_5": 5
-      },
-      {
-        "__EMPTY_4": "Ekiti",
-        "__EMPTY_5": 1
-      },
-      {
-        "__EMPTY_4": "Ondo",
-        "__EMPTY_5": 1
-      },
-      {
-        "__EMPTY_4": "Akwa Ibom",
-        "__EMPTY_5": 1
-      },
-      {
-        "__EMPTY_4": "FCT",
-        "__EMPTY_5": 2
       }
+   
     ],
     "Secondary": [
       {
@@ -2284,42 +2257,6 @@
         "__EMPTY_5": "Emmanuel Ayeni",
         "__EMPTY_6": "Chizzy Nwokejezie",
         "__EMPTY_7": "Didimakon Steven"
-      },
-      {
-        "__EMPTY_4": "Lagos",
-        "__EMPTY_5": 63
-      },
-      {
-        "__EMPTY_4": "Ogun",
-        "__EMPTY_5": 8
-      },
-      {
-        "__EMPTY_4": "Oyo",
-        "__EMPTY_5": 6
-      },
-      {
-        "__EMPTY_4": "Akwa Ibom",
-        "__EMPTY_5": 2
-      },
-      {
-        "__EMPTY_4": "Kaduna",
-        "__EMPTY_5": 2
-      },
-      {
-        "__EMPTY_4": "Cross River",
-        "__EMPTY_5": 1
-      },
-      {
-        "__EMPTY_4": "Gombe",
-        "__EMPTY_5": 1
-      },
-      {
-        "__EMPTY_4": "Niger",
-        "__EMPTY_5": 1
-      },
-      {
-        "__EMPTY_4": "FCT",
-        "__EMPTY_5": 1
       }
     ],
     "Tertiary": [
@@ -2795,78 +2732,7 @@
         "__EMPTY_5": "Aturu Opeyemi Samson",
         "__EMPTY_6": "Bibiresanmi Oluwagbenga David",
         "__EMPTY_7": "Odulana"
-      },
-      {
-        "__EMPTY_3": "Lagos",
-        "__EMPTY_4": 10
-      },
-      {
-        "__EMPTY_3": "Ogun",
-        "__EMPTY_4": 5
-      },
-      {
-        "__EMPTY_3": "Oyo",
-        "__EMPTY_4": 5
-      },
-      {
-        "__EMPTY_3": "Osun",
-        "__EMPTY_4": 3
-      },
-      {
-        "__EMPTY_3": "Edo",
-        "__EMPTY_4": 3
-      },
-      {
-        "__EMPTY_3": "Ondo",
-        "__EMPTY_4": 2
-      },
-      {
-        "__EMPTY_3": "Anambra",
-        "__EMPTY_4": 3
-      },
-      {
-        "__EMPTY_3": "Plateau",
-        "__EMPTY_4": 1
-      },
-      {
-        "__EMPTY_3": "Bayelsa",
-        "__EMPTY_4": 1
-      },
-      {
-        "__EMPTY_3": "Delta",
-        "__EMPTY_4": 1
-      },
-      {
-        "__EMPTY_3": "Ebonyi",
-        "__EMPTY_4": 1
-      },
-      {
-        "__EMPTY_3": "Gombe",
-        "__EMPTY_4": 1
-      },
-      {
-        "__EMPTY_3": "Ekiti",
-        "__EMPTY_4": 1
-      },
-      {
-        "__EMPTY_3": "Imo",
-        "__EMPTY_4": 1
-      },
-      {
-        "__EMPTY_3": "Kogi",
-        "__EMPTY_4": 1
-      },
-      {
-        "__EMPTY_3": "Kwara",
-        "__EMPTY_4": 1
-      },
-      {
-        "__EMPTY_3": "Niger",
-        "__EMPTY_4": 1
-      },
-      {
-        "__EMPTY_3": "FCT",
-        "__EMPTY_4": 1
       }
+ 
     ]
   }
