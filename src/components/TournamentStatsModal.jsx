@@ -12,13 +12,29 @@ export const TournamentStatsModal = ({ isOpen, onClose }) => {
 
   // Statistics from the Excel data
   const statistics = {
-    totalSchools: 118,
+    totalSchools:245,
     regions: {
-      Lagos: 105,
-      Ogun: 5,
-      Oyo: 5,
-      FCT: 2,
-      Ondo: 1
+        Lagos: 176,
+        Ogun: 18,
+        Oyo: 16,
+        FCT: 4,
+        Osun: 3,
+        Edo: 3,
+        Ondo: 3,
+        Anambra: 3,
+        AkwaIbom: 3,
+        Gombe: 2,   
+        Ekiti: 2,
+        Niger: 2,
+        Kaduna: 2,
+        Plateau: 1,
+        Bayelsa: 1,
+        Delta: 1,
+        Ebonyi: 1,
+        Imo: 1,
+        Kogi: 1,
+        Kwara: 1,
+        CrossRiver: 1
     }
   };
 
@@ -160,13 +176,15 @@ export const TournamentStatsModal = ({ isOpen, onClose }) => {
                         <FaMapMarkerAlt className={`text-3xl ${isDarkMode ? "text-blue-400" : "text-blue-500"} mr-3`} />
                         <h3 className="text-xl font-semibold">Regional Distribution</h3>
                       </div>
-                      <div className="space-y-2">
-                        {Object.entries(statistics.regions).map(([region, count]) => (
-                          <div key={region} className="flex justify-between items-center">
-                            <span>{region}</span>
-                            <span className="font-semibold">{count} schools</span>
-                          </div>
-                        ))}
+                      <div className="max-h-[300px] overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar-thumb-gray-400 scrollbar-track-gray-200 dark:scrollbar-thumb-gray-600 dark:scrollbar-track-gray-800">
+                        <div className="space-y-2">
+                          {Object.entries(statistics.regions).map(([region, count]) => (
+                            <div key={region} className="flex justify-between items-center">
+                              <span>{region}</span>
+                              <span className="font-semibold">{count} schools</span>
+                            </div>
+                          ))}
+                        </div>
                       </div>
                     </div>
                   </motion.div>
