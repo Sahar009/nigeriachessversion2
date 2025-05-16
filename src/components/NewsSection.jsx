@@ -9,21 +9,21 @@ export const NewsSection = () => {
     {
       id: 1,
       title: "Registration Now Open",
-      date: "July 1, 2024",
-      content: "Registration for the National Schools Team Chess Championship 2024 is now open. Early bird discounts available until July 31st.",
+      date: "May 16, 2025",
+      content: "Registration for the National Schools Team Chess Championship 2025 is now open. Registreation closes  June 1st.",
       image: "https://res.cloudinary.com/do537qymc/image/upload/v1747044108/WhatsApp_Image_2025-05-12_at_10.59.18_6d2f3ea0_ft6vot.jpg"
     },
     {
       id: 2,
       title: "New Tournament Format",
-      date: "June 28, 2024",
+      date: "April 28, 2025",
       content: "This year's championship will feature an improved Swiss System format with additional rounds for better competition.",
       image: "https://res.cloudinary.com/do537qymc/image/upload/v1747035081/IMG-20250512-WA0002_kvx3pa.jpg"
     },
     {
       id: 3,
       title: "Special Guest Announcement",
-      date: "June 25, 2024",
+      date: "April 04, 2025",
       content: "International master will be attending the championship as a special guest and commentator.",
       image: "https://images.squarespace-cdn.com/content/v1/61fc4d5ddff96633ad785def/79bef46e-ffdb-4896-b529-65e4053da8d6/TundeNYC.jpeg "
       

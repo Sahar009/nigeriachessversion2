@@ -43,7 +43,7 @@ export const About = () => {
             <FaTrophy className={`mx-auto text-4xl mb-4 ${isDarkMode ? 'text-yellow-400' : 'text-yellow-600'}`} />
             <h3 className="text-xl font-bold mb-2">Championship Format</h3>
             <p className={`${isDarkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-              Team-based competition featuring 4-5 players per school, promoting collaborative strategy and team spirit.
+              Team-based competition featuring 5 players per school, promoting collaborative strategy and team spirit.
             </p>
           </div>
 

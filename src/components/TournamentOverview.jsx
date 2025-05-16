@@ -162,11 +162,14 @@ export const TournamentOverview = () => {
               >
                 Previous Tournaments
               </motion.h3>
+              <p className={`text-sm flex text-center  ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}>
+              The Ecobank 2024 National Schools Team Chess Championship was an impressive event that drew widespread attention from schools and institutions across Nigeria and the African continent. The tournament brought together over 1,200 students from more than 240 schools, representing primary, secondary, and tertiary education levels. This marked the largest gathering of youth for a single tournament in Nigeria, the largest in West Africa, and the second largest in Africa—an unprecedented achievement made possible by the dedicated efforts of the Nigerian Chess Federation (NCF) and the remarkable support from Ecobank. Competitors from five of the six geopolitical zones in Nigeria: Southwest, Southsouth, Southeast, North Central, and North West were represented.
+              The three-day event culminated in the crowning of three winners in each category: Marvelvine Montessori School in Lagos for the Primary category, Dayspring College in Ibadan for the Secondary category, and the University of Lagos for the Tertiary category.              </p>
               
               {/* Add Stats Button */}
               <motion.div
                 variants={itemVariants}
-                className="text-center mb-8"
+                className="text-center mb-8 mt-8"
               >
                 <button
                   onClick={() => setIsStatsModalOpen(true)}
