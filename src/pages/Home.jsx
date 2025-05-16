@@ -8,6 +8,7 @@ import { NewsSection } from "../components/NewsSection";
 import { BenefitsSection } from "../components/BenefitsSection";
 import { TestimonialsSection } from "../components/TestimonialsSection";
 import { Link } from 'react-router-dom';
+import { FAQSection } from "../components/FAQSection";
 
 export const Home = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -154,8 +155,9 @@ export const Home = () => {
         <SponsorsSection />
       </div>
       <TournamentOverview />
-
+      
       <BenefitsSection/>
+      <FAQSection />
       <NewsSection/>
       <TestimonialsSection/>
      

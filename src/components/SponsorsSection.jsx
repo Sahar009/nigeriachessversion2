@@ -10,7 +10,7 @@ import fidelogo from '../assets/image/sponsors/fide.png';
 export const SponsorsSection = () => {
   const { isDarkMode } = useDarkMode();
   const marqueeRef = useRef(null);
-  const speedSpring = useSpring(1, { damping: 40, stiffness: 90, mass: 5 });
+  const speedSpring = useSpring(1, { damping: 30, stiffness: 80, mass: 3 });
 
   // You can replace these with your actual sponsor logos
   const sponsors = [
@@ -34,7 +34,7 @@ export const SponsorsSection = () => {
         x: {
           repeat: Infinity,
           repeatType: "loop",
-          duration: 25,
+          duration: 10,
           ease: "linear",
         },
       },

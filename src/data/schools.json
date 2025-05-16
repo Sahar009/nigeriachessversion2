@@ -1,0 +1,2872 @@
+{
+    "Primary": [
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": "S/N",
+        "__EMPTY": "School Name",
+        "__EMPTY_1": "State",
+        "__EMPTY_2": "Player 1",
+        "__EMPTY_3": "Player 2",
+        "__EMPTY_4": "Player 3",
+        "__EMPTY_5": "Player 4",
+        "__EMPTY_6": "Player 5",
+        "__EMPTY_7": "Coach/Tutor"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 1,
+        "__EMPTY": "Abiolu Schools",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Evbuomwan Victoria Esohe",
+        "__EMPTY_3": "Patrick Oluchi Jane",
+        "__EMPTY_4": "Ekundayo David Iyanuoluwapo",
+        "__EMPTY_5": "Pondei Iyinugha Dominion",
+        "__EMPTY_6": "Adesoye Gift Abidemi",
+        "__EMPTY_7": "Edward Eguavoen Evbuomwan"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 2,
+        "__EMPTY": "Active Academy",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Paul Abigail",
+        "__EMPTY_3": "Chukwuemeka Rahma",
+        "__EMPTY_4": "Chizagom Ogochukwu Anyina",
+        "__EMPTY_5": "Alexander Yaseer",
+        "__EMPTY_6": "Chiwetel Daniel Anyina",
+        "__EMPTY_7": "Didimakon Steven"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 3,
+        "__EMPTY": "ADORABLE TOES SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Zikora Igwe",
+        "__EMPTY_3": "Divine Okoebor",
+        "__EMPTY_4": "Temidere Bologun",
+        "__EMPTY_5": "Dominion Ozieoghene",
+        "__EMPTY_6": "Mokorejo Bologun",
+        "__EMPTY_7": "Coach Benjamin Victor"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 4,
+        "__EMPTY": "Applesbury School, Gbagada,",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Adeyeye Adedeji",
+        "__EMPTY_3": "Adegboyegun Timi",
+        "__EMPTY_4": "Anene Kamsi",
+        "__EMPTY_5": "Anene Kamso.",
+        "__EMPTY_6": "Mgbo IK",
+        "__EMPTY_7": "Julius Nwachukwu."
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 5,
+        "__EMPTY": "Berkley Science Magnet School.",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Teniola Arinde",
+        "__EMPTY_3": "Daniella Nwawulu",
+        "__EMPTY_4": "Timileyin Alaka",
+        "__EMPTY_5": "Nathaniel Akerele",
+        "__EMPTY_6": "Samuel Apollos-George",
+        "__EMPTY_7": "Timothy Ogbang"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 6,
+        "__EMPTY": "Bloffville Nursery and Primary School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Aralepo Demilade",
+        "__EMPTY_3": "Adedeji Oreoluwa",
+        "__EMPTY_4": "Onochie Chisimdi",
+        "__EMPTY_5": "Adefuwa Damilola",
+        "__EMPTY_6": "Obaseki Sharon",
+        "__EMPTY_7": "Ikuenomore Ayodeji"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 7,
+        "__EMPTY": "BOSOL GOD'S WILL - GROUP OF SCHOOLS",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "AMOO - EMMANUEL",
+        "__EMPTY_3": "ISHOLA - DANIEL",
+        "__EMPTY_4": "THOMPSON - EMMANUEL",
+        "__EMPTY_5": "OHANABA - SAMUEL",
+        "__EMPTY_6": "OLUBUNMI - FAVOR",
+        "__EMPTY_7": "Solomon - Olushola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 8,
+        "__EMPTY": "Botland College",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Semilore Olajide",
+        "__EMPTY_3": "Mercy Omoifoh",
+        "__EMPTY_4": "Redeem Agbeje",
+        "__EMPTY_5": "Taiwo Feyi",
+        "__EMPTY_6": "Olabire Emmanuel",
+        "__EMPTY_7": "Osundara Adebayo Gbenga"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 9,
+        "__EMPTY": "British International Junior School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ethan Adikwu",
+        "__EMPTY_3": "Adhyaan Srijesh",
+        "__EMPTY_4": "Dhaishiyan Millawana",
+        "__EMPTY_5": "Mofeyifoluwa Adekunle-Ajayi",
+        "__EMPTY_6": "Nathan Ajudua",
+        "__EMPTY_7": "Dieyi Roland"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 10,
+        "__EMPTY": "Brookehouse Learning Centre",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ademide Okonlawon",
+        "__EMPTY_3": "Ayobami Dada",
+        "__EMPTY_4": "Abimisola Oladubu",
+        "__EMPTY_5": "Rejoice Omamiyerem",
+        "__EMPTY_6": "Amatesiro Omaghomi",
+        "__EMPTY_7": "Idowu Olumuyiwa Babatunde"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 11,
+        "__EMPTY": "Camsed Montessori school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Favour Obindike",
+        "__EMPTY_3": "Darasimi Hassan",
+        "__EMPTY_4": "Fisayo Hassan",
+        "__EMPTY_5": "Nimi Adigun",
+        "__EMPTY_6": "Mako",
+        "__EMPTY_7": "Didimakon Steven"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 12,
+        "__EMPTY": "Children house Montesorri School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Igwe Oghenerukevwe",
+        "__EMPTY_3": "Umar Muhammed Rabbaanee",
+        "__EMPTY_4": "Money-Johnson Precious",
+        "__EMPTY_5": "Oladipupo Akanji",
+        "__EMPTY_6": "Seth Bob",
+        "__EMPTY_7": "Laura Emeza"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 13,
+        "__EMPTY": "CHRISTABEL PRIMARY SCHOOL WUYE ABUJA",
+        "__EMPTY_1": "FCT",
+        "__EMPTY_2": "ZION ALAJE",
+        "__EMPTY_3": "AWESOME EKOM",
+        "__EMPTY_4": "EDIKAN OKOKO",
+        "__EMPTY_5": "KEVIN OJO",
+        "__EMPTY_6": "ABUBAKAR ALAYA",
+        "__EMPTY_7": "AUGUSTINE AKHIGBE OLUMHENSE"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 14,
+        "__EMPTY": "Clairmont Nursery and Primary school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Olaniran Olaoluwakiitan",
+        "__EMPTY_3": "Akaolisa Onyinyechukwu Theodora",
+        "__EMPTY_4": "Martin_Osime Sophia",
+        "__EMPTY_5": "Ekpe Chukwukosolu",
+        "__EMPTY_6": "Okechukwu Munachi Harry",
+        "__EMPTY_7": "Didimakon Steven"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 15,
+        "__EMPTY": "CLASAM SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "AKINYELE - MUSODIQ",
+        "__EMPTY_3": "NETOCHUKWU - PRAISE",
+        "__EMPTY_4": "SHOMIDE - DOMINIC",
+        "__EMPTY_5": "OLOWE - CLINTON",
+        "__EMPTY_6": "TAIWO - EZEKIEL",
+        "__EMPTY_7": "Solomon Olushola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 16,
+        "__EMPTY": "CLEAR EDGE SCHOOLS",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "MOFEOSIOLUWA TAIWO",
+        "__EMPTY_3": "FOLA ADENEKAN",
+        "__EMPTY_4": "LIAM UKOH",
+        "__EMPTY_5": "MOJOLA CAXTON MARTIN",
+        "__EMPTY_6": "EBEBERI TOPMAN",
+        "__EMPTY_7": "MODUPE AGBELEKALE"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 17,
+        "__EMPTY": "Corona Primary School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "CHRISTAN BODEDE",
+        "__EMPTY_3": "TOLUWANIMI ADAMS",
+        "__EMPTY_4": "JOSHUA ACHINIKE",
+        "__EMPTY_5": "KUFONIYI TONI",
+        "__EMPTY_6": "NKENNACHI EZEOGO-ENWON",
+        "__EMPTY_7": "Oluwafemi Olaitan/Bayo Babalola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 18,
+        "__EMPTY": "Cotville Preparatory School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Uli Okhiria",
+        "__EMPTY_3": "Chasdiel Ajiji",
+        "__EMPTY_4": "Rayo Balogun",
+        "__EMPTY_5": "Sonia Allaputa",
+        "__EMPTY_6": "Chidera Nwoye",
+        "__EMPTY_7": "Laura Emeza"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 19,
+        "__EMPTY": "Cribs and Crayons Schools, Lekki",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Michael Nnaemeka Nwokocha",
+        "__EMPTY_3": "Bryan Adili",
+        "__EMPTY_4": "Zephan Ifinedo",
+        "__EMPTY_5": "Izumunachim Stephen Chukwuemeka",
+        "__EMPTY_6": "Chizara Nicole Ugwuoke",
+        "__EMPTY_7": "Mr Michael Anietie"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 20,
+        "__EMPTY": "Dansol Nursery and Primary School, Agidingbi.",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Bryant Enahoro",
+        "__EMPTY_3": "Jeremy Isiavwe",
+        "__EMPTY_4": "Kadesh Isiavwe",
+        "__EMPTY_5": "OgoOluwa Gbolahan-Oke",
+        "__EMPTY_6": "Inioluwa Adetijanwa",
+        "__EMPTY_7": "Babatunde Amoo"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 21,
+        "__EMPTY": "Dayspring School",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Adebisi Emmanuel",
+        "__EMPTY_3": "Abiodun Basit",
+        "__EMPTY_4": "Adegoke Samad",
+        "__EMPTY_5": "Adetimehin Samuel",
+        "__EMPTY_6": "Muyideen Aishat",
+        "__EMPTY_7": "Olabode Sofoluwe"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 22,
+        "__EMPTY": "Demagrette school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Adepegba fatim",
+        "__EMPTY_3": "Umoffia david",
+        "__EMPTY_4": "Ilori oluwajoba",
+        "__EMPTY_5": "Abolade shalom",
+        "__EMPTY_6": "Adegbola olamide",
+        "__EMPTY_7": "Ihueze ikenna"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 23,
+        "__EMPTY": "DIAGOLD SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Elizabeth Itsede",
+        "__EMPTY_3": "Timileyin Odusote",
+        "__EMPTY_4": "Johnson Chigozie",
+        "__EMPTY_5": "Kenneth Okafor",
+        "__EMPTY_6": "Ottah Praise",
+        "__EMPTY_7": "Mr Efe"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 24,
+        "__EMPTY": "Diamondsville School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Gabriel Arinola",
+        "__EMPTY_3": "Sophia Abije",
+        "__EMPTY_4": "Salaam Al-amin",
+        "__EMPTY_5": "Adegbola Ayoade",
+        "__EMPTY_6": "Junaid Isabelle",
+        "__EMPTY_7": "Okusanya Olawale"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 25,
+        "__EMPTY": "Divine Academy",
+        "__EMPTY_1": "Ekiti",
+        "__EMPTY_2": "Adegboyega Emmanuel Adebayonle",
+        "__EMPTY_3": "James Mishael Adegoke",
+        "__EMPTY_4": "Falana Daniel Olamide",
+        "__EMPTY_5": "Ogunleye Rejoice",
+        "__EMPTY_6": "Ibosiola Treasure Semilore",
+        "__EMPTY_7": "Malik Adebayo.O"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 26,
+        "__EMPTY": "Dream Park Montessori School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "AbdulBaaqi Tijani",
+        "__EMPTY_3": "Habeeebullah Oladunni",
+        "__EMPTY_4": "Mahfouz Tijani",
+        "__EMPTY_5": "Ahmad Osho",
+        "__EMPTY_6": "Nazim Odunewu",
+        "__EMPTY_7": "Mr Christopher"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 27,
+        "__EMPTY": "ENGREG INTERNATIONAL SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Olubowale Anuoluwapo",
+        "__EMPTY_3": "Olaleye Deborah.",
+        "__EMPTY_4": "Adeoye Fifehanmi",
+        "__EMPTY_5": "Awoyele Reginald",
+        "__EMPTY_6": "Ferdinand Loyalty",
+        "__EMPTY_7": "Oluwoga Afolabi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 28,
+        "__EMPTY": "Ensign Nursery and Primary School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Abayomi Ayotunde",
+        "__EMPTY_3": "Akanbi Obateniola",
+        "__EMPTY_4": "Dada David",
+        "__EMPTY_5": "Foly Abigail",
+        "__EMPTY_6": "Ajibola Oluwabukunmi",
+        "__EMPTY_7": "Coach Efe"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 29,
+        "__EMPTY": "Ferscoat International School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Sunday Confidence",
+        "__EMPTY_3": "Ogbaisi Michael",
+        "__EMPTY_4": "Ebede Caleb",
+        "__EMPTY_5": "Ebule Williams",
+        "__EMPTY_6": "Esther Ikechuckwu",
+        "__EMPTY_7": "Mr. Olalekan Olatunde"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 30,
+        "__EMPTY": "First Quiver School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Moyomade Micheal Olaofe",
+        "__EMPTY_3": "Ukemeobong Francis Ekpo",
+        "__EMPTY_4": "Adebolaoluwa Akorede Odunlami",
+        "__EMPTY_5": "Mofiyinfoluwa Ethan Femi-John",
+        "__EMPTY_6": "Terence Chukwunomso Nduanya",
+        "__EMPTY_7": "Akinyemi Oludare"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 31,
+        "__EMPTY": "Flourish Playhouse",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Mosopesioluwa Ige",
+        "__EMPTY_3": "Moyinoluwa Igbalode",
+        "__EMPTY_4": "Adebola Kilaso",
+        "__EMPTY_5": "Olaoluwatitomi Idowu",
+        "__EMPTY_6": "Temiloluwa Oluwalana",
+        "__EMPTY_7": "Mr Uwe/Mr Kingsley"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 32,
+        "__EMPTY": "Fluorescent Group Of Schools",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Bassey Emmanuella",
+        "__EMPTY_3": "Olowosile Oluwaseyi",
+        "__EMPTY_4": "Shotolu Semilore",
+        "__EMPTY_5": "Adeogun Abdulrahman",
+        "__EMPTY_6": "Folami Timilehin",
+        "__EMPTY_7": "Mr. Olalekan Olatunde"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 33,
+        "__EMPTY": "FRUITFUL FIELD MONTESSORI SCHOOL",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "RYAN ADEKOYA",
+        "__EMPTY_3": "CONFIDENCE AKINOLA",
+        "__EMPTY_4": "MIRACULOUS ABIODUN",
+        "__EMPTY_5": "DAVID SHIJA",
+        "__EMPTY_6": "ALEX ADEKOYA",
+        "__EMPTY_7": "MR ADISA BABATUNDE"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 34,
+        "__EMPTY": "GEMLIZ GROUP OF SCHOOLS",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "EZEIFEDI - CHIDUBEM",
+        "__EMPTY_3": "ADEYEYE - DESMOND",
+        "__EMPTY_4": "UDOKA - VICTORY",
+        "__EMPTY_5": "OMONIYI - OLUWASHINDARA",
+        "__EMPTY_6": "OLADAPO - ISAAC",
+        "__EMPTY_7": "Ms Bukky"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 35,
+        "__EMPTY": "Geoann private school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Abioye Oluwaseun",
+        "__EMPTY_3": "Adeleke Ibukun",
+        "__EMPTY_4": "Ugochukwu Chimamanda",
+        "__EMPTY_5": "Otani Jesse",
+        "__EMPTY_6": "Simon Justice",
+        "__EMPTY_7": "Coach dafs"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 36,
+        "__EMPTY": "Glatet Academy",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Raji anjolaouluwa heritage",
+        "__EMPTY_3": "Ogunrinu oluwajomiloju john",
+        "__EMPTY_4": "Ulugbodi esther Erioluwa",
+        "__EMPTY_5": "Taiwo Timilehin Daniel",
+        "__EMPTY_6": "Asieba Eunice",
+        "__EMPTY_7": "Coach Sylvester izokwu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 37,
+        "__EMPTY": "GRACE SCHOOLS GBAGADA",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "MICHELLE ONYEBUCHI",
+        "__EMPTY_3": "KOSI ONYEOCHA",
+        "__EMPTY_4": "JUDE OMOTOYINBO",
+        "__EMPTY_5": "OLUMIDE KAYODE",
+        "__EMPTY_6": "DEMILADE BALOGUN",
+        "__EMPTY_7": "MRS. BICKERSTETH"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 38,
+        "__EMPTY": "GRANDE OAKBRIDGE SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Obaloluwa Ademola",
+        "__EMPTY_3": "Obaroh Kevin",
+        "__EMPTY_4": "Roy Eromosele",
+        "__EMPTY_5": "Omuzuanfo Jordan",
+        "__EMPTY_6": "Joanna Michael-Preston",
+        "__EMPTY_7": "Izuogu Mickey"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 39,
+        "__EMPTY": "Greenwood House School, Ikoyi",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Akinbobola Oyebode",
+        "__EMPTY_3": "Akinlolu Oyebode",
+        "__EMPTY_4": "Bamiro Durotimi",
+        "__EMPTY_5": "Aseoluwatodimu Idowu",
+        "__EMPTY_6": "Iremiwole Babatunde",
+        "__EMPTY_7": "Mr Efe Dafiewharen"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 40,
+        "__EMPTY": "Grenville school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Aarav Tongiri",
+        "__EMPTY_3": "Anant Joshi",
+        "__EMPTY_4": "Pranav Anandh",
+        "__EMPTY_5": "Khalifeh Hadi",
+        "__EMPTY_6": "Sami Ghrazi",
+        "__EMPTY_7": "Dynamics Chess ville (Tolulope )"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 41,
+        "__EMPTY": "G-support Schools",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Gbolahan Idowu",
+        "__EMPTY_3": "Godsauthority Noke",
+        "__EMPTY_4": "Tofunmi Otesanya",
+        "__EMPTY_5": "Praise Oni",
+        "__EMPTY_6": "Emmanuel Nze",
+        "__EMPTY_7": "Obanor Amechi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 42,
+        "__EMPTY": "Habile Nursery and Primary school, Surulere",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Onasanya Yuunus",
+        "__EMPTY_3": "Odofin Jamal",
+        "__EMPTY_4": "Matemilola Khadeejah",
+        "__EMPTY_5": "Adebowale Al-layth",
+        "__EMPTY_6": "Faleye Faiza",
+        "__EMPTY_7": "Mr Amechi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 43,
+        "__EMPTY": "Halcyon International School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Fashola Oluwatimilehin",
+        "__EMPTY_3": "Desalu Adeola",
+        "__EMPTY_4": "Ikechukwu Alexander",
+        "__EMPTY_5": "Adebayo Adekunbi",
+        "__EMPTY_6": "Karim Timothy",
+        "__EMPTY_7": "Alade Olufemi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 44,
+        "__EMPTY": "Hampton Preparatory school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Osaivbie Izedonmwen",
+        "__EMPTY_3": "Adrian Akpan",
+        "__EMPTY_4": "Daniel umoru",
+        "__EMPTY_5": "Dami",
+        "__EMPTY_6": "Devina umoru",
+        "__EMPTY_7": "Anita Esin"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 45,
+        "__EMPTY": "HERIT-CHRIS ACADEMY",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "JUDAH ISAAC-YUSUF",
+        "__EMPTY_3": "ANUOLUWAPOSIMI OLOYEDE",
+        "__EMPTY_4": "HERBERT OMOJAYOGBE",
+        "__EMPTY_5": "NATHAN ANTHONY",
+        "__EMPTY_6": "OLUWADABIRA OLUFEMI-MATTHEWS",
+        "__EMPTY_7": "CHRISTOPHER ADEJUMO"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 46,
+        "__EMPTY": "Hey-Day Montessori school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Adugba Michelle",
+        "__EMPTY_3": "Ogbewele Michelle",
+        "__EMPTY_4": "Oyemeh Chidubem",
+        "__EMPTY_5": "Onyekachukwu Chimdalu",
+        "__EMPTY_6": "Folorunsho Eniola",
+        "__EMPTY_7": "Didimakon Steven"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 49,
+        "__EMPTY": "Home Science Association Nursery and Primary Oko Oba",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Chukwunonso Egbo",
+        "__EMPTY_3": "Muazzah Ajakaye",
+        "__EMPTY_4": "Ayoola Arikawe",
+        "__EMPTY_5": "Victor Oranachi",
+        "__EMPTY_6": "Emmanuel Shittu",
+        "__EMPTY_7": "Tope Oki"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 47,
+        "__EMPTY": "Home Science association nursery and primary school Ikoyi",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ebube Ezegbugha",
+        "__EMPTY_3": "Toluwalase Balogun",
+        "__EMPTY_4": "Chikamalu Okonkwo",
+        "__EMPTY_5": "Nengi Iwaritaribi",
+        "__EMPTY_6": "Tumise Adeyanju",
+        "__EMPTY_7": "Martins Damilola Preye"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 48,
+        "__EMPTY": "Home Science Association Nursery and Primary School, Borno Way, Ebute Meta",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Okeme Jewel",
+        "__EMPTY_3": "Adelanwa Arka",
+        "__EMPTY_4": "Ojeah Chukwudalu",
+        "__EMPTY_5": "Nwadike Johnpaul",
+        "__EMPTY_6": "Ojora Moyosore",
+        "__EMPTY_7": "Damilola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 50,
+        "__EMPTY": "Honeyland Montessori Schools",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Asuen Osamagbe Jesse",
+        "__EMPTY_3": "Ayomide Daniel Agboola",
+        "__EMPTY_4": "Aaron Akong Stanley",
+        "__EMPTY_5": "Obabire Ifeoluwa",
+        "__EMPTY_6": "Oduyemi Oluwatomiwa Emmanuel",
+        "__EMPTY_7": "Oludare Olumide Abiola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 51,
+        "__EMPTY": "Imaad Schools Lekki",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Fareed Olakisan",
+        "__EMPTY_3": "Rashaad Yusuf",
+        "__EMPTY_4": "Abdurahman Ajibola",
+        "__EMPTY_5": "Faiz Musa",
+        "__EMPTY_6": "Maida Buraimoh",
+        "__EMPTY_7": "Samuel Badejo"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 52,
+        "__EMPTY": "Indian Language School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "ABIRAM A.S.V.L.",
+        "__EMPTY_3": "AARUSH SINGH",
+        "__EMPTY_4": "PRANAV AILDASANI",
+        "__EMPTY_5": "ASHISH KRISHNAN",
+        "__EMPTY_6": "DHANUSH GAIKWAD",
+        "__EMPTY_7": "Coach Rotimi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 53,
+        "__EMPTY": "International Community School",
+        "__EMPTY_1": "FCT",
+        "__EMPTY_2": "Shalom Chibudom Emereole",
+        "__EMPTY_3": "Osayi Imohe",
+        "__EMPTY_4": "Uzochikamso Bertram",
+        "__EMPTY_5": "Oviezibe Egba",
+        "__EMPTY_6": "Rereloluwa Ajayi",
+        "__EMPTY_7": "Johnson Enejison"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 54,
+        "__EMPTY": "ISRINA SCHOOLS",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Owunka Johnson",
+        "__EMPTY_3": "Chinedu Sorchima",
+        "__EMPTY_4": "Bromi Joy",
+        "__EMPTY_5": "Omoregbe Victor",
+        "__EMPTY_6": "Nwaobi Chinedu",
+        "__EMPTY_7": "Mr Ezerioha Somtochukwu Emmanue and Ms Grace Amuzie"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 55,
+        "__EMPTY": "Italian International School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Olearsh Aron",
+        "__EMPTY_3": "Rushton Barry John",
+        "__EMPTY_4": "Shittu Ubaidat",
+        "__EMPTY_5": "Camatel Filippo",
+        "__EMPTY_6": "Seneya Kofi",
+        "__EMPTY_7": "Anietie Richard Michael"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 56,
+        "__EMPTY": "Jareb Private Schools",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Ajayi Victor Elisha",
+        "__EMPTY_3": "Fadojutimi Ezekiel",
+        "__EMPTY_4": "Aiyegbusi Oloruntoba Sinaayomi",
+        "__EMPTY_5": "Sodiq Esther Aishat",
+        "__EMPTY_6": "Adelani Abdul Ramon",
+        "__EMPTY_7": "Master Immaculate"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 57,
+        "__EMPTY": "JEHOVAH JEWEL SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Godly Kelechi",
+        "__EMPTY_3": "Afolabi Timon",
+        "__EMPTY_4": "Obaemo Jathniel",
+        "__EMPTY_5": "Adeyemo Akinyele",
+        "__EMPTY_6": "Cole Olamide",
+        "__EMPTY_7": "Mrs Dafiewharen"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 58,
+        "__EMPTY": "JUFORM SCHOOLS",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Mbakwe Samuel",
+        "__EMPTY_3": "Ajuba Derrick",
+        "__EMPTY_4": "Onumajuru Chinedu",
+        "__EMPTY_5": "Babafemi Mofe",
+        "__EMPTY_6": "Falodun Rere",
+        "__EMPTY_7": "Gideon Uformba"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 59,
+        "__EMPTY": "KEY academy",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Idurotioluwa Ogidan",
+        "__EMPTY_3": "Antoine Moudaber",
+        "__EMPTY_4": "Feranmi Edun",
+        "__EMPTY_5": "Moroti Sowemimo",
+        "__EMPTY_6": "Gbolabo Ibuoye",
+        "__EMPTY_7": "Dotun Adesanwo"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 60,
+        "__EMPTY": "King'sfield School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Oluwadamilare Basit Shoetan",
+        "__EMPTY_3": "Osuji Kamsirochukwu Donald",
+        "__EMPTY_4": "Ibrahim Abdul-Sabur Eneojo",
+        "__EMPTY_5": "Folasade Tiwalade Adesanya",
+        "__EMPTY_6": "Daren Ewomazino Oboba",
+        "__EMPTY_7": "Chimela David Okereke"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 61,
+        "__EMPTY": "L’Overcomers Height Nur & Pry School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "DOGARA Vathanda Godswill",
+        "__EMPTY_3": "ABDULLAHI Muhammad Aburekhale",
+        "__EMPTY_4": "Anaeto Chidimma Jennifer",
+        "__EMPTY_5": "Garba Moses",
+        "__EMPTY_6": "JACOB Esther",
+        "__EMPTY_7": "Mr Joseph Agoro"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 62,
+        "__EMPTY": "Lagos State University of Education Staff School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Buhari Precious",
+        "__EMPTY_3": "Adedayo Moyosore",
+        "__EMPTY_4": "Yusuf Opeyemi Fatiu",
+        "__EMPTY_5": "Adeyemi Demilade",
+        "__EMPTY_6": "Dauda Halimat",
+        "__EMPTY_7": "Anjorin Stephen Oluwaseun"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 63,
+        "__EMPTY": "Le Poshe School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Gbeminiyi Odusanya",
+        "__EMPTY_3": "Seyifunmi Obiyemi",
+        "__EMPTY_4": "Ebunoluwa Dara",
+        "__EMPTY_5": "Olaoluwa Dara",
+        "__EMPTY_6": "Rayhan Egbeyemi",
+        "__EMPTY_7": "Michael Nwanze"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 64,
+        "__EMPTY": "Leap for Joy School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Eriife Solarin",
+        "__EMPTY_3": "Pearl Monye",
+        "__EMPTY_4": "Tanitoluwa Kolawole",
+        "__EMPTY_5": "Mowaninukristi Adesokan",
+        "__EMPTY_6": "Momoore Olaniyonu",
+        "__EMPTY_7": "Loretta Bickerstethe"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 65,
+        "__EMPTY": "LESO ROND SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Erikitola Morire",
+        "__EMPTY_3": "Peters Olamide",
+        "__EMPTY_4": "Nnamdi Chuka",
+        "__EMPTY_5": "Agunbiade Moyin",
+        "__EMPTY_6": "Abolarin Todimu",
+        "__EMPTY_7": "Mr Akindayini Olumide"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 66,
+        "__EMPTY": "L'espoir school.",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Inioluwa Salami",
+        "__EMPTY_3": "Ivie Aihiegbe",
+        "__EMPTY_4": "Sharon Aresokan",
+        "__EMPTY_5": "Ifeoluwa Soyebo",
+        "__EMPTY_6": "Samuel Egbeyemi",
+        "__EMPTY_7": "Adepoju Kolawole"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 67,
+        "__EMPTY": "Lightshowers Montessori School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Emokah Chidubem",
+        "__EMPTY_3": "Oshalushi Damilola",
+        "__EMPTY_4": "Obiora Chisom",
+        "__EMPTY_5": "Onyido Matthew",
+        "__EMPTY_6": "Chibuike Santiago",
+        "__EMPTY_7": "Didimakon Steven"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 68,
+        "__EMPTY": "LILLY WHITE SCHOOL ILUPEJU",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "OLANIPEKUN BOLUWATIFE",
+        "__EMPTY_3": "OBAJIMI ABDULMATEEN",
+        "__EMPTY_4": "OLADOSU HASSAN",
+        "__EMPTY_5": "ADEMOLA GREAT",
+        "__EMPTY_6": "ADEMOLA GREAT",
+        "__EMPTY_7": "BABATUNDE MUSE"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 69,
+        "__EMPTY": "Little Saints Montessori School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Hazeeb Oguntade",
+        "__EMPTY_3": "Adeyinka Ogunderu",
+        "__EMPTY_4": "Oluwadunsin Komolafe",
+        "__EMPTY_5": "Amy Jaiyesimi",
+        "__EMPTY_6": "Joseph Ndubuizu",
+        "__EMPTY_7": "Olufemi Alade"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 70,
+        "__EMPTY": "LORDGOLD Montessori School.",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ogbaragwu Chinedu",
+        "__EMPTY_3": "Ogbaragwu Chibueze",
+        "__EMPTY_4": "Job Ose",
+        "__EMPTY_5": "Onukwo Perez",
+        "__EMPTY_6": "Ekoh Tobechukwu",
+        "__EMPTY_7": "Ochu Ikechukwu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 71,
+        "__EMPTY": "MADONNA INTERNATIONAL SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "IVAN UKPE",
+        "__EMPTY_3": "KAMSI OKPALA",
+        "__EMPTY_4": "KELECHI OHAZURUME",
+        "__EMPTY_5": "MICHELLE ANTHONY",
+        "__EMPTY_6": "ANTHONY IGBINOMWANHIA",
+        "__EMPTY_7": "MR FEMI ALADE"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 72,
+        "__EMPTY": "MarvelVine Montessori School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Nwankwo Michelle Chiamaka",
+        "__EMPTY_3": "Nwankwo Jason Somtochukwu",
+        "__EMPTY_4": "Emmanuel Oluwaseun Wale-salau",
+        "__EMPTY_5": "Aniko Oghenezino Ethel",
+        "__EMPTY_6": "Aniko Oghenetano Gabriel",
+        "__EMPTY_7": "Omosowoni Oluwafemi Samuel"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 73,
+        "__EMPTY": "Maymaxwell school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Iwuchukwu chimdiebube",
+        "__EMPTY_3": "Igwemadu Munachi",
+        "__EMPTY_4": "Ikhide Tofumi",
+        "__EMPTY_5": "Ajayi Marvellous",
+        "__EMPTY_6": "Obidike Jesse",
+        "__EMPTY_7": "Mr Boyo"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 74,
+        "__EMPTY": "Meadow Hall School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Akerele Obademilade Joshua",
+        "__EMPTY_3": "Izekor Daniel Osarinmwam",
+        "__EMPTY_4": "Bazuaye Jehiel Osaze",
+        "__EMPTY_5": "Orji Munachimso Jayden",
+        "__EMPTY_6": "Adegite Olaoluwa Ademola",
+        "__EMPTY_7": "Mr Chima Atuonwu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 75,
+        "__EMPTY": "New Estate Baptist School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Akuchi Eze",
+        "__EMPTY_3": "Michael Okereke",
+        "__EMPTY_4": "Hannathon Koledoye",
+        "__EMPTY_5": "Anaya Etudoh",
+        "__EMPTY_6": "Nasya Etudoh",
+        "__EMPTY_7": "Mrs. Obukovwo Etudoh"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 76,
+        "__EMPTY": "Newgate International School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Adelaja Oluwatoferan",
+        "__EMPTY_3": "Ayeni Otis Oluwaseun",
+        "__EMPTY_4": "Ibrahim Matin Akinwunmi",
+        "__EMPTY_5": "Goodness Chinemerem Okereke",
+        "__EMPTY_6": "Agbejobi Ayobami",
+        "__EMPTY_7": "Onoyom Michael Bassey"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 77,
+        "__EMPTY": "Okikioluwa Junior Academy",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Oladimeji Ibukun",
+        "__EMPTY_3": "Oladimeji Obaloluwa",
+        "__EMPTY_4": "Aderoju Testimony",
+        "__EMPTY_5": "Adio Daniel",
+        "__EMPTY_6": "Oyewole ferosayemi",
+        "__EMPTY_7": "D-VINE CHESS ACADEMY"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 78,
+        "__EMPTY": "Olivefields Schools",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Moyinoluwa Agbejimi",
+        "__EMPTY_3": "Mayodele Abiola",
+        "__EMPTY_4": "Shallom Shado",
+        "__EMPTY_5": "kikiope Samuel",
+        "__EMPTY_6": "Aisosa Ogbonmwan",
+        "__EMPTY_7": "Mr Kingsley/ Mr noble/ Mr Uwe"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 79,
+        "__EMPTY": "Oren School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Agreeh Jayden",
+        "__EMPTY_3": "Dazi Ephraim",
+        "__EMPTY_4": "Zion Agbro",
+        "__EMPTY_5": "Dazi Elijah",
+        "__EMPTY_6": "Nifemi Adesanya",
+        "__EMPTY_7": "Olumide Akindayini"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 80,
+        "__EMPTY": "Pegasus Schools Eket",
+        "__EMPTY_1": "Akwa Ibom",
+        "__EMPTY_2": "David Emmanuel Inangha",
+        "__EMPTY_3": "Jesse Okokon Owokere",
+        "__EMPTY_4": "Oghenefejiro Israel Ajomata",
+        "__EMPTY_5": "Paul Samuel Effiong",
+        "__EMPTY_6": "Emmanuel Chibuzo Abajuo",
+        "__EMPTY_7": "Oboh Sunday Bassey"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 81,
+        "__EMPTY": "Phidel Group of Schools Montessori",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Adekunle Seun",
+        "__EMPTY_3": "Umeha Chidera",
+        "__EMPTY_4": "Okoro Chikamso",
+        "__EMPTY_5": "Ajibade Mikel",
+        "__EMPTY_6": "Akinkunmi Ajayi",
+        "__EMPTY_7": "Adeola Damilare (Mr)"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 82,
+        "__EMPTY": "Phinewater Montessori school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Chukwuemeka Godswill",
+        "__EMPTY_3": "Chukwuemeka Godslove",
+        "__EMPTY_4": "Ekwute Ekenedilichukwu",
+        "__EMPTY_5": "Iyke-okpala Pascal",
+        "__EMPTY_6": "Olusoji David",
+        "__EMPTY_7": "Sylvester izokwu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 83,
+        "__EMPTY": "Pinefield Schools Lekki",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "David Mokah",
+        "__EMPTY_3": "Timileyin Kayode",
+        "__EMPTY_4": "Jayden Arubayi",
+        "__EMPTY_5": "Soromidayo Oshinowo",
+        "__EMPTY_6": "Anuoluwakiishi Fadipe",
+        "__EMPTY_7": "Coach Adekunle"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 84,
+        "__EMPTY": "Pivot Model Academy",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Iyanda Al-Ameen",
+        "__EMPTY_3": "Otunubi Hakeemah",
+        "__EMPTY_4": "Odusanya Abdulkabeer",
+        "__EMPTY_5": "Oyelakin Fuad",
+        "__EMPTY_6": "Ajayi Faroj",
+        "__EMPTY_7": "Adejumo Christopher Olawale"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 85,
+        "__EMPTY": "Platform Primary School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ologun Michelle",
+        "__EMPTY_3": "Afolayan Olatayo",
+        "__EMPTY_4": "Ayoade Monjola",
+        "__EMPTY_5": "Okechukwu Ekene",
+        "__EMPTY_6": "Raymond Wonderful",
+        "__EMPTY_7": "Mr Bankole"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 86,
+        "__EMPTY": "Preserved Generation Schools",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Laura Chizzy Ekpe",
+        "__EMPTY_3": "Demilade Adeniran",
+        "__EMPTY_4": "Ezurike Chizaram",
+        "__EMPTY_5": "Peace Odigbo",
+        "__EMPTY_6": "Royale Omiyale",
+        "__EMPTY_7": "Mr Chucks"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 87,
+        "__EMPTY": "Priceless Jewel Elementary school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Opemipo Adebayo",
+        "__EMPTY_3": "Farid Abdumaleek",
+        "__EMPTY_4": "Abdullah Gbadamosi",
+        "__EMPTY_5": "Olamide Gbolarumi",
+        "__EMPTY_6": "Joy Osaigbe",
+        "__EMPTY_7": "Miss Bolanle"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 88,
+        "__EMPTY": "Prideland international School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Abdullahi Abdulazeez",
+        "__EMPTY_3": "Adode Daniel",
+        "__EMPTY_4": "Bazunu Omovigo",
+        "__EMPTY_5": "Dieyi Olivia",
+        "__EMPTY_6": "Azodo Success",
+        "__EMPTY_7": "Dieyi Roland"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 89,
+        "__EMPTY": "Prudence Private Schools",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Emeka-Obi Delight",
+        "__EMPTY_3": "Sanusi-Ahmad Maimuna",
+        "__EMPTY_4": "Bugaje Mustapha Bello",
+        "__EMPTY_5": "Joseph Anuoluwapo",
+        "__EMPTY_6": "Madaki Faruk",
+        "__EMPTY_7": "Emmanuel Nick"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 90,
+        "__EMPTY": "Renics children's school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Olugunna Iretomiwa",
+        "__EMPTY_3": "Idemudia Prosper",
+        "__EMPTY_4": "Dare Semilore",
+        "__EMPTY_5": "Adu Araoluwa",
+        "__EMPTY_6": "Adeyemi Jubelo",
+        "__EMPTY_7": "Coach Sylvester izokwu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 91,
+        "__EMPTY": "Richkind Nursery and Primary School.",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "SERIKI Jadesola",
+        "__EMPTY_3": "UZEZI Michelle Okeoghene",
+        "__EMPTY_4": "CHINEDU Stephanie",
+        "__EMPTY_5": "OZIOMA Isabella",
+        "__EMPTY_6": "ABU Alexa",
+        "__EMPTY_7": "AGORO Joseph"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 92,
+        "__EMPTY": "Roshallom Schools",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Akanbi David Oluwatobiloba",
+        "__EMPTY_3": "Thomas Orisunayomi Victoria",
+        "__EMPTY_4": "Ojo Demilade",
+        "__EMPTY_5": "Thomas Isreal",
+        "__EMPTY_6": "Obekpa Christiana",
+        "__EMPTY_7": "Udofia Michael"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 93,
+        "__EMPTY": "ROYAL CREST SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "AJAYI - DENZEL",
+        "__EMPTY_3": "FAJUGBAGBE - MICHAEL",
+        "__EMPTY_4": "OGECHI - SMART",
+        "__EMPTY_5": "ABOLAJI - VICTORY",
+        "__EMPTY_6": "ANDERO - VICTORY",
+        "__EMPTY_7": "Solomon Olushola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 94,
+        "__EMPTY": "Royal Hall School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "David Ekeocha",
+        "__EMPTY_3": "Damian Amiandamhen",
+        "__EMPTY_4": "Ifedike Onyekwelu",
+        "__EMPTY_5": "Dominion chiro",
+        "__EMPTY_6": "Bukunmi Adelusi",
+        "__EMPTY_7": "Mr Femi Alade"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 95,
+        "__EMPTY": "Saint Joseph Primary School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "AGUSIONU KEVIN",
+        "__EMPTY_3": "AGUSIONU ZITA",
+        "__EMPTY_4": "AKINSHIPO OLUWASEYI",
+        "__EMPTY_5": "ADEMOLA JAMAL",
+        "__EMPTY_6": "OGUNYEMI SARAH",
+        "__EMPTY_7": "Mr EDWARD EVBUOMWAN"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 96,
+        "__EMPTY": "Scholars Academy, Ibadan",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Badru Ariyo",
+        "__EMPTY_3": "Anifowose Peter",
+        "__EMPTY_4": "Ajani Kelvin",
+        "__EMPTY_5": "Adeleye David",
+        "__EMPTY_6": "Olibamoyo Bose",
+        "__EMPTY_7": "Opadijo Adeniyi Felix"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 97,
+        "__EMPTY": "SMARTY LEARNERS NURSERY and PRIMARY SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "ANUOLUWAPO FAUZIYA OLALEYE",
+        "__EMPTY_3": "ARINZE ANDRE IROZURU",
+        "__EMPTY_4": "CHIMAOBI CHARLES NWADUITO",
+        "__EMPTY_5": "CHIMAMANDA STEPHANIE MADU",
+        "__EMPTY_6": "EBUBE DAVID ONAH",
+        "__EMPTY_7": "Mr IFEANYI IMEGWU"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 98,
+        "__EMPTY": "St Saviour school Ebute metta",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Oladipo Matin",
+        "__EMPTY_3": "Adeniran Ogunnsanya Adeoluwa",
+        "__EMPTY_4": "Hameed OlaosebiKan",
+        "__EMPTY_5": "Anuku Kikachukwu",
+        "__EMPTY_6": "Nwabuoku Anthon",
+        "__EMPTY_7": "Ogwu Patrick"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 99,
+        "__EMPTY": "STARCON SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "OYELADE OJUOLUWATOWO",
+        "__EMPTY_3": "HONORABLE BRIGHT",
+        "__EMPTY_4": "OLAREWAJU SEMILORE",
+        "__EMPTY_5": "USMAN JUNAID",
+        "__EMPTY_6": "ADEBIYI INIOLUWA",
+        "__EMPTY_7": "Solomon Olushola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 100,
+        "__EMPTY": "SUPREME EDUCATION FOUNDATION SCHOOL,",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "OLUWAFELAMI ABIRI",
+        "__EMPTY_3": "AbdulMumin Abass-Olisa",
+        "__EMPTY_4": "CHRISTOPHER ADANIKIN",
+        "__EMPTY_5": "Tirenioluwa Ajiboye",
+        "__EMPTY_6": "JOSHUA AJIBOLA",
+        "__EMPTY_7": "MR DANIEL OMONIYI"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 101,
+        "__EMPTY": "Sureville Montessori School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Oni Zoe",
+        "__EMPTY_3": "Odion Ariana",
+        "__EMPTY_4": "Prince Bobo Alex. O",
+        "__EMPTY_5": "Oluwole Victoria",
+        "__EMPTY_6": "Afolabi Caleb",
+        "__EMPTY_7": "UFOT Benjamin VICTOR"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 102,
+        "__EMPTY": "Tenderlight Haven School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Omojoolabi Victor",
+        "__EMPTY_3": "Oluwadare Israel",
+        "__EMPTY_4": "Edward Peculiar",
+        "__EMPTY_5": "Agbemuko Enoch",
+        "__EMPTY_6": "Akindayini Rejoice",
+        "__EMPTY_7": "Olumide Akindayini"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 103,
+        "__EMPTY": "Tenderville School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Nathan Kanu",
+        "__EMPTY_3": "Ruvi Adaka",
+        "__EMPTY_4": "Chimuanya Uddoh",
+        "__EMPTY_5": "Uzoamaka Uddoh",
+        "__EMPTY_6": "Emmanuel Akagha",
+        "__EMPTY_7": "Mr Shokunbi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 104,
+        "__EMPTY": "THE CEDARS - WORLD NUR & PRY SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "UDOBONG EDIDIONG IFIOK",
+        "__EMPTY_3": "IBOK ABASIONO SAMUEL",
+        "__EMPTY_4": "IBOK ODIDIONG JOSHUA",
+        "__EMPTY_5": "EBOAGWU KAMSILIOCHUKWU GABRIEL",
+        "__EMPTY_6": "OKORODUDU ORITSEBAWO AARON",
+        "__EMPTY_7": "SANNI FAROUK OLAWALE"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 105,
+        "__EMPTY": "The Kids' Court School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Laszio Ochigbano",
+        "__EMPTY_3": "Kaira Offiah",
+        "__EMPTY_4": "Abdulkabir Odulaja",
+        "__EMPTY_5": "Fiyinfoluwa Falona",
+        "__EMPTY_6": "Dayna Akinmoladun",
+        "__EMPTY_7": "Oluwaseun Assa"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 106,
+        "__EMPTY": "The Lord's Seeds Nursery and Primary School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Nathaniel Osuolale",
+        "__EMPTY_3": "Oluwateleayo Amosu",
+        "__EMPTY_4": "Oluwakoreayo Amosu",
+        "__EMPTY_5": "Iremide Ojo",
+        "__EMPTY_6": "Chimaobi Imo",
+        "__EMPTY_7": "Melvich Moore Chess Academy (David Chimela)"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 107,
+        "__EMPTY": "TOP RANK INTELLECTUAL ACADEMY",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Raji Olamiposi",
+        "__EMPTY_3": "Fateye Iyanuoluwa",
+        "__EMPTY_4": "Owolawi Semilore",
+        "__EMPTY_5": "Adebayo Adetola",
+        "__EMPTY_6": "Owolawi Semilore",
+        "__EMPTY_7": "Mr Bode Shofoluwe"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 108,
+        "__EMPTY": "TOSVVI PRECIOUS SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "ANUNOBI KING",
+        "__EMPTY_3": "ADOHE CHARIS",
+        "__EMPTY_4": "MADU EMMANUEL",
+        "__EMPTY_5": "AKINOLA DANIEL",
+        "__EMPTY_6": "ANUNOBI DIVINE",
+        "__EMPTY_7": "George abiodun Isaiah"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 109,
+        "__EMPTY": "TOTS UP PRIMARY SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "ONOJA OJOCHAREWAMI DANIELLA",
+        "__EMPTY_3": "Akinwale Olamitan",
+        "__EMPTY_4": "Akinwale Iremide",
+        "__EMPTY_5": "Ubani Wendy",
+        "__EMPTY_6": "Fatunase Timisola",
+        "__EMPTY_7": "Alade Olufemi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 110,
+        "__EMPTY": "TOYDAM School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Bankole Oluwajomiloju",
+        "__EMPTY_3": "Ogundeyin Mofiyifoluwu",
+        "__EMPTY_4": "Adeniyi Jason",
+        "__EMPTY_5": "Ewere Gabrina",
+        "__EMPTY_6": "Jelani Azeemah",
+        "__EMPTY_7": "Shadrach Ikechukwu Ojukwu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 111,
+        "__EMPTY": "Toysun Nursery and Primary School",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Sunday Success",
+        "__EMPTY_3": "Sunday Sweetness",
+        "__EMPTY_4": "Oluwanisola Tomisin",
+        "__EMPTY_5": "Ajayi Momolaoluwa",
+        "__EMPTY_6": "Adebayo Precious",
+        "__EMPTY_7": "Mr Olalekan"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 112,
+        "__EMPTY": "Trillium court Montessori school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Oluwadarasimi David AMOO",
+        "__EMPTY_3": "Kitan ELEGBEDE",
+        "__EMPTY_4": "Ibijokeoluwa Ejemen SODIPO",
+        "__EMPTY_5": "Adeola ELEGBEDE",
+        "__EMPTY_6": "Brian Chidera UTULU",
+        "__EMPTY_7": "Boyo Paul Kehinde"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 113,
+        "__EMPTY": "TRUEVINE",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Enabodje Efemena",
+        "__EMPTY_3": "Dafiewharen Divine",
+        "__EMPTY_4": "AGADA WINFIELD",
+        "__EMPTY_5": "OJEMAKINDE TOBILOBA",
+        "__EMPTY_6": "OJUJOH TONBRA",
+        "__EMPTY_7": "DAFIEWHAREN EFE"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 114,
+        "__EMPTY": "UCH Staff Schools Ibadan",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Adesina Nathaniel",
+        "__EMPTY_3": "Nduji adaora",
+        "__EMPTY_4": "Balogun Olúwaseyi",
+        "__EMPTY_5": "Folayan Eniola",
+        "__EMPTY_6": "Talabi Inioluwa",
+        "__EMPTY_7": "Abimbolu Ogunbanwo"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 115,
+        "__EMPTY": "Vertbrooks Nursery and Primary School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Samuel Caleb",
+        "__EMPTY_3": "Adeosun Oluwapamilerin",
+        "__EMPTY_4": "Esenowo Abigail",
+        "__EMPTY_5": "Akinsemoyin Inioluwa",
+        "__EMPTY_6": "Hussein Oluwademilade",
+        "__EMPTY_7": "Mr Ayodeji"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 116,
+        "__EMPTY": "Watersprings International School, Akure",
+        "__EMPTY_1": "Ondo",
+        "__EMPTY_2": "Isabella Sile",
+        "__EMPTY_3": "Collins Omoyeni",
+        "__EMPTY_4": "Inioluwa Olagbuji",
+        "__EMPTY_5": "David Okoegwa",
+        "__EMPTY_6": "Timilehin Owoeye",
+        "__EMPTY_7": "Olugbenga Sile"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 117,
+        "__EMPTY": "Whitesprings Nursery, Primary n Secondary school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Diamond Peter",
+        "__EMPTY_3": "Shane Adebisi",
+        "__EMPTY_4": "Glory Ayeni",
+        "__EMPTY_5": "Ebube Ibe",
+        "__EMPTY_6": "Adeola Ayeni",
+        "__EMPTY_7": "Didimakon steven"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - PRIMARY": 118,
+        "__EMPTY": "WINFIELD MONTESSORI SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "OGUNNEYE RIHANNAT",
+        "__EMPTY_3": "OMOFUOPHU HILARY",
+        "__EMPTY_4": "EGWUATU ONYEKA",
+        "__EMPTY_5": "EKUNDAYO LIGHT",
+        "__EMPTY_6": "MUSA DAVID",
+        "__EMPTY_7": "MR. UFOT BENJAMIN VICTOR"
+      },
+      {
+        "__EMPTY_4": "Lagos",
+        "__EMPTY_5": 103
+      },
+      {
+        "__EMPTY_4": "Ogun",
+        "__EMPTY_5": 5
+      },
+      {
+        "__EMPTY_4": "Oyo",
+        "__EMPTY_5": 5
+      },
+      {
+        "__EMPTY_4": "Ekiti",
+        "__EMPTY_5": 1
+      },
+      {
+        "__EMPTY_4": "Ondo",
+        "__EMPTY_5": 1
+      },
+      {
+        "__EMPTY_4": "Akwa Ibom",
+        "__EMPTY_5": 1
+      },
+      {
+        "__EMPTY_4": "FCT",
+        "__EMPTY_5": 2
+      }
+    ],
+    "Secondary": [
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": "S/N",
+        "__EMPTY": "School Name",
+        "__EMPTY_1": "State",
+        "__EMPTY_2": "Player 1",
+        "__EMPTY_3": "Player 2",
+        "__EMPTY_4": "Player 3",
+        "__EMPTY_5": "Player 4",
+        "__EMPTY_6": "Player 5",
+        "__EMPTY_7": "Coach/Tutor"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 1,
+        "__EMPTY": "Abiolu Schools",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Nyuima Tersee Ferdinand",
+        "__EMPTY_3": "Evbuomwan Henry Oghogho",
+        "__EMPTY_4": "Chukwuemeka Favour",
+        "__EMPTY_5": "Chukwuemeka Success",
+        "__EMPTY_6": "Patrick Chiidiebere",
+        "__EMPTY_7": "Evbuomwan Edward Eguavoen"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 2,
+        "__EMPTY": "ABS College",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Merrilyn patrick",
+        "__EMPTY_3": "Praisel patrick",
+        "__EMPTY_4": "Akinsanya Habeeb",
+        "__EMPTY_5": "Floresaint Patrick",
+        "__EMPTY_6": "Jerome Ifeoluwa",
+        "__EMPTY_7": "Ogwu Patrick"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 3,
+        "__EMPTY": "Birrel Avenue Senior High School, Sabo Yaba",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Bello Abdullahi",
+        "__EMPTY_3": "Wilson Princess",
+        "__EMPTY_4": "JOHNSON EMMANUEL OGBONNAYA",
+        "__EMPTY_5": "Ibrahim Sulaiman",
+        "__EMPTY_6": "Korolo Mary",
+        "__EMPTY_7": "Adams Ibraheem"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 4,
+        "__EMPTY": "BOSOL GOD'S WILL - GROUP OF SCHOOLS",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "AJIBOYE - PROSPER",
+        "__EMPTY_3": "OGBU - GEORGE",
+        "__EMPTY_4": "ODIA - ABRAHAM",
+        "__EMPTY_5": "ADENIJI - CALEB",
+        "__EMPTY_6": "JIMOH - OLUSEYI - SAMUEL",
+        "__EMPTY_7": "Solomon Olushola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 5,
+        "__EMPTY": "Botland College",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "David Fayemi",
+        "__EMPTY_3": "Olamoju Ayomide",
+        "__EMPTY_4": "Gbolahan Akala",
+        "__EMPTY_5": "Clark Emmanuel",
+        "__EMPTY_6": "Goodluck Abatan",
+        "__EMPTY_7": "Osundara Adebayo Gbenga"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 6,
+        "__EMPTY": "Cerulean School Academy",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Olayinka Odunlami",
+        "__EMPTY_3": "Imafidon David",
+        "__EMPTY_4": "Agu Dominion",
+        "__EMPTY_5": "Omogunwa David",
+        "__EMPTY_6": "Fashola Ibukun",
+        "__EMPTY_7": "Adeyemi David Tolulope"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 7,
+        "__EMPTY": "Chess in Slums Africa (CISA)",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Sunday Chinonso",
+        "__EMPTY_3": "Ogbonna confidence",
+        "__EMPTY_4": "Benjamin Kisegbeji ",
+        "__EMPTY_5": "Femi Alade",
+        "__EMPTY_6": "Jonnas Zannu",
+        "__EMPTY_7": "Samson Ofubu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 8,
+        "__EMPTY": "CHRISTABEL PRIVATE SCHOOL, WUYE ABUJA",
+        "__EMPTY_1": "FCT",
+        "__EMPTY_2": "ORO CHARLES",
+        "__EMPTY_3": "OKOROAFOR CHIMAROKE",
+        "__EMPTY_4": "DAFIEWHARE GAREN",
+        "__EMPTY_5": "BLOSSOM EKOM",
+        "__EMPTY_6": "UDEH PETER",
+        "__EMPTY_7": "AUGUSTINE OLUMHENSE AKHIGBE"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 9,
+        "__EMPTY": "CLASAM SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "ADENIJI - EVANS",
+        "__EMPTY_3": "ADEDOLAPO - ADEYINDE",
+        "__EMPTY_4": "ADENIYI - KELVIN",
+        "__EMPTY_5": "OKOYE - BENJAMIN",
+        "__EMPTY_6": "OLATUNDE - OLUWASETEMI",
+        "__EMPTY_7": "Solomon Olushola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 10,
+        "__EMPTY": "Corona Secondary School",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Caleb Adeniyi",
+        "__EMPTY_3": "Jeremy ihiwhwu",
+        "__EMPTY_4": "Temiloluwa Awonibe",
+        "__EMPTY_5": "Ayotunde Adeniji",
+        "__EMPTY_6": "Oluwatobiloba Okoya",
+        "__EMPTY_7": "Luga Lorver/Oluyisola Abiola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 11,
+        "__EMPTY": "Covenant Child Academy Lekki",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "AGORO Similoluwa Samuel",
+        "__EMPTY_3": "AGORO Timileyin David",
+        "__EMPTY_4": "ETIM David",
+        "__EMPTY_5": "ADEOBA Praise",
+        "__EMPTY_6": "Chukwu Ebubechi Awesome",
+        "__EMPTY_7": "AGORO Joseph"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 12,
+        "__EMPTY": "Dayspring Schools",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Mufutau Waris",
+        "__EMPTY_3": "Oduola Fawaz",
+        "__EMPTY_4": "Joseph Sambo",
+        "__EMPTY_5": "Oyetunde Hannah",
+        "__EMPTY_6": "Samson Sambo",
+        "__EMPTY_7": "Olabode Sofoluwe"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 13,
+        "__EMPTY": "DIAGOLD SCHOOLS",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Olatunji Jeremiah",
+        "__EMPTY_3": "Omoregie Honour",
+        "__EMPTY_4": "Afere Jomiloju",
+        "__EMPTY_5": "Fatoki Victor",
+        "__EMPTY_6": "Adeyemo Goodluck",
+        "__EMPTY_7": "Mr Efe"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 14,
+        "__EMPTY": "DOTHAN COMPREHENSIVE HIGH SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ogbu Chisom",
+        "__EMPTY_3": "Mikel kolawole",
+        "__EMPTY_4": "Ayomikun Taiwo",
+        "__EMPTY_5": "Reuben Micheal",
+        "__EMPTY_6": "OLUWATOONI olabode",
+        "__EMPTY_7": "Omodara Adekunle Oluwabusayomi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 15,
+        "__EMPTY": "ENGREG HIGH SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Bakare Tobiloba",
+        "__EMPTY_3": "Adegbuyi Fareed",
+        "__EMPTY_4": "Ogunsanya Adebanji",
+        "__EMPTY_5": "Ezeudu Zoe",
+        "__EMPTY_6": "Ferdinand Reliance.",
+        "__EMPTY_7": "Oluwoga Afolabi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 16,
+        "__EMPTY": "Falomo Senior High School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ngbede Lucky",
+        "__EMPTY_3": "ODIHI Shedrach",
+        "__EMPTY_4": "Akihano David",
+        "__EMPTY_5": "Effiong Isaac",
+        "__EMPTY_6": "Abiola Opemi",
+        "__EMPTY_7": "Williams Henry"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 17,
+        "__EMPTY": "Federal Government Academy Centre for the Gifted and Talented Suleja",
+        "__EMPTY_1": "Niger",
+        "__EMPTY_2": "Leo Utam",
+        "__EMPTY_3": "Chioma Mbachi",
+        "__EMPTY_4": "Tyowase Collins",
+        "__EMPTY_5": "Ugoji Anthony",
+        "__EMPTY_6": "Okpe Emmanuel",
+        "__EMPTY_7": "Prince Otunubi Samson Olugbenga"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 18,
+        "__EMPTY": "FEDERAL GOVERNMENT COLLEGE ODOGBOLU",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Akindele Isaac Oluwadamilola",
+        "__EMPTY_3": "Aliyu Muhammad Titilope",
+        "__EMPTY_4": "Kuti Olanrewaju Oyindamola",
+        "__EMPTY_5": "Agbelu Lateef Modupe",
+        "__EMPTY_6": "Irekhafe Osiokemekhai Ikhianosime",
+        "__EMPTY_7": "Adesina Adewale"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 19,
+        "__EMPTY": "Ferscoat International School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Adeniyi Damifayo",
+        "__EMPTY_3": "Adetunji Kehinde",
+        "__EMPTY_4": "Adetunji Taiwo",
+        "__EMPTY_5": "Akinola Peace",
+        "__EMPTY_6": "Ogundiran Titofunmi",
+        "__EMPTY_7": "Mr Chimaobi Atuonwu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 20,
+        "__EMPTY": "Fluorescent Group Of Schools",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ogunbiyi Solomon",
+        "__EMPTY_3": "Omoruyi Dominion",
+        "__EMPTY_4": "Thomas Paul",
+        "__EMPTY_5": "Adeluola Olamide",
+        "__EMPTY_6": "Ogunjobi Tobi",
+        "__EMPTY_7": "Mr. Olalekan Olatunde"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 21,
+        "__EMPTY": "GEMLIZ GROUP OF SCHOOLS",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "EKUGBE - DOMINION",
+        "__EMPTY_3": "BASHIR - FAREED",
+        "__EMPTY_4": "OLUWASEUN - SAMUEL",
+        "__EMPTY_5": "RUFAI - ABDULRASHEED",
+        "__EMPTY_6": "ADEGBOROGBE - OLUWALAYOMI",
+        "__EMPTY_7": "Ms Bukky"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 22,
+        "__EMPTY": "GOOD SHEPHERD SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "BENSON - DUNWO",
+        "__EMPTY_3": "CHUKWUEMEKA - BLESSING",
+        "__EMPTY_4": "AJAYI - FIKUNMI",
+        "__EMPTY_5": "ADEBAYO - DANIEL",
+        "__EMPTY_6": "GABRIEL - DARASIMI",
+        "__EMPTY_7": "Solomon Olushola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 23,
+        "__EMPTY": "Government Day Secondary School Orji Estate Gombe",
+        "__EMPTY_1": "Gombe",
+        "__EMPTY_2": "Micah Umaru",
+        "__EMPTY_3": "Moses Ishaya",
+        "__EMPTY_4": "Ezekiel Musa",
+        "__EMPTY_5": "Levi Leonard",
+        "__EMPTY_6": "Ayuba Lele",
+        "__EMPTY_7": "Yakkon Damaryam"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 24,
+        "__EMPTY": "Government Senior College Maroko Ikoyi",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Bamigboye Darasimi",
+        "__EMPTY_3": "Medoye Jesutofunmi",
+        "__EMPTY_4": "Azeez Emmanuel",
+        "__EMPTY_5": "Rosiji Mubarak",
+        "__EMPTY_6": "Amin Aishat",
+        "__EMPTY_7": "Williams Henry"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 25,
+        "__EMPTY": "Grace High School Gbagada Estate",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Egwurube Emmanuel",
+        "__EMPTY_3": "Uremeh Chibuikem",
+        "__EMPTY_4": "Adeyemo Timilehin",
+        "__EMPTY_5": "Ogunjiofor Ifeanyichukwu",
+        "__EMPTY_6": "Adebajo Oluwatobiloba",
+        "__EMPTY_7": "Okolie Deborah Chinyere"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 26,
+        "__EMPTY": "Grenville school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Wafa Alghadban `",
+        "__EMPTY_3": "Amine Alghazzawi",
+        "__EMPTY_4": "Angelica Anandh",
+        "__EMPTY_5": "Ephraim Ogbewi",
+        "__EMPTY_6": "Jessica Goenawan",
+        "__EMPTY_7": "Dynamic chess ville"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 27,
+        "__EMPTY": "Herald secondary school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Igboanuga Micheal chidara",
+        "__EMPTY_3": "Alabetutu Stephen",
+        "__EMPTY_4": "Agba Ekene",
+        "__EMPTY_5": "Afilaka fiire",
+        "__EMPTY_6": "Adekanmi Ademiju",
+        "__EMPTY_7": "Coach Sylvester izokwu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 28,
+        "__EMPTY": "HERITAGE GLOBAL ACADEMY",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Mustafa Rabiu",
+        "__EMPTY_3": "Ayyub Animashaun",
+        "__EMPTY_4": "Abdul-Mateen Balogun",
+        "__EMPTY_5": "Yusuf Adeyemi",
+        "__EMPTY_6": "Ismail Amidu",
+        "__EMPTY_7": "Amechi Obanor"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 29,
+        "__EMPTY": "Hiddekel Academy",
+        "__EMPTY_1": "Cross River",
+        "__EMPTY_2": "Jeremiah Udoma Ekpo",
+        "__EMPTY_3": "Joseph Chimobi Ndubuisi",
+        "__EMPTY_4": "David Ezekiel S",
+        "__EMPTY_5": "Comfort David Edim",
+        "__EMPTY_6": "Alexander Charles Owo",
+        "__EMPTY_7": "Fidelis George Abature"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 30,
+        "__EMPTY": "Himalaya Academy",
+        "__EMPTY_1": "Kaduna",
+        "__EMPTY_2": "Olorunponmi Deborah Peace",
+        "__EMPTY_3": "Muhammad Isah Selah",
+        "__EMPTY_4": "Shalom Joy",
+        "__EMPTY_5": "Bitrus Peniel Agbadaloh",
+        "__EMPTY_6": "Olamilekan Saheed Oyewopo",
+        "__EMPTY_7": "Isah Abdulbasit"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 31,
+        "__EMPTY": "Home Science Association Secondary School, Ajegunle",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Enelamah Solomon",
+        "__EMPTY_3": "Ejike David",
+        "__EMPTY_4": "Ajakaye Adnan",
+        "__EMPTY_5": "Ajayi David",
+        "__EMPTY_6": "Arowojolu Opemipo",
+        "__EMPTY_7": "Adewale John Dada"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 32,
+        "__EMPTY": "HOMELAND COLLEGE",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "JOLAOSHO - IBUKUNOLUWA",
+        "__EMPTY_3": "OGBONNA - JOSHUA",
+        "__EMPTY_4": "JOLAOSHO - IFEOLUWA",
+        "__EMPTY_5": "OYETUNDE - SA'AD",
+        "__EMPTY_6": "ONOLA - PAMILERIN",
+        "__EMPTY_7": "Solomon Olushola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 33,
+        "__EMPTY": "HONEYLAND COLLEGE",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "ASAKALU INIOLUWA PRAISE",
+        "__EMPTY_3": "AKINYEMI SEMILORE",
+        "__EMPTY_4": "ADEBIYI BUKUNMI",
+        "__EMPTY_5": "AGBOOLA ISAAC",
+        "__EMPTY_6": "COLINS-NWOSU CHUKWUSIMDI",
+        "__EMPTY_7": "AKERELE AKINOLA OLUWATOBI"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 34,
+        "__EMPTY": "Impetus Dominion Academy",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ogundare Tunmise",
+        "__EMPTY_3": "Jaiyeola Deborah",
+        "__EMPTY_4": "Adelana Ogo",
+        "__EMPTY_5": "Alejo Muiz",
+        "__EMPTY_6": "Abifarin Imisi",
+        "__EMPTY_7": "Mr dafs"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 35,
+        "__EMPTY": "Indian Language School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "EBIN ANTONY",
+        "__EMPTY_3": "HARSHIT NANDANWAR",
+        "__EMPTY_4": "KRISHIV CHOPRA",
+        "__EMPTY_5": "AADYANSH MAHARANA",
+        "__EMPTY_6": "TANISHQ BHASKAR RAO",
+        "__EMPTY_7": "Coach Rotimi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 36,
+        "__EMPTY": "Ireti Senior Grammar School Ikoyi",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Iheanyichukwu Michael",
+        "__EMPTY_3": "Onikute Samuel",
+        "__EMPTY_4": "Akinpelu Irewamiri Al-ameen",
+        "__EMPTY_5": "Onikute Israel",
+        "__EMPTY_6": "Onikute Oluwafemi",
+        "__EMPTY_7": "Williams Henry Olawale"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 37,
+        "__EMPTY": "Italian International School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Davide",
+        "__EMPTY_3": "Izedonmwen Oghosa",
+        "__EMPTY_4": "Razak-Lawal Tamira",
+        "__EMPTY_5": "Fafunwa Tanikayode",
+        "__EMPTY_6": "El Kheir Kalvin",
+        "__EMPTY_7": "Anietie Richard Michael"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 38,
+        "__EMPTY": "JAKANDE ESTATE COMPREHENSIVE SENIOR COLLEGE, ABESAN",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "OPOOLA KHALEED",
+        "__EMPTY_3": "SILAS DIVINE",
+        "__EMPTY_4": "FRANKLINE JUDAH",
+        "__EMPTY_5": "OKORO ONYEDIKACHI",
+        "__EMPTY_6": "OSINUBI EMMANUEL",
+        "__EMPTY_7": "THOMAS OLUWASEUN"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 39,
+        "__EMPTY": "Jareb Private Schools",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Shittu yussuf Olaiya",
+        "__EMPTY_3": "Ogungbemi Toyosi Samuel",
+        "__EMPTY_4": "Ayomide Olamiposi Nurudeen",
+        "__EMPTY_5": "Shobande Babatunde",
+        "__EMPTY_6": "Ojo Daniel Seun",
+        "__EMPTY_7": "Master Immaculate"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 40,
+        "__EMPTY": "Joy Dominion School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Chinasa Emmanuel",
+        "__EMPTY_3": "Chinasa Destiny",
+        "__EMPTY_4": "Nathaniel",
+        "__EMPTY_5": "Elliot",
+        "__EMPTY_6": "Michael",
+        "__EMPTY_7": "Oluyisola Abiola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 41,
+        "__EMPTY": "Kings College Lagos",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Adewale Mayowa",
+        "__EMPTY_3": "Mgbokwere Dimunma",
+        "__EMPTY_4": "Lawal Samad",
+        "__EMPTY_5": "Hector Ama-ugo",
+        "__EMPTY_6": "Olaitan Isaiah",
+        "__EMPTY_7": "Mr George Nyoho"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 42,
+        "__EMPTY": "L’Overcomers Height Secondary School Lekki",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "GEORGE Divine",
+        "__EMPTY_3": "MATHIAS Kelechi",
+        "__EMPTY_4": "JOSEPH Kuve Tmade",
+        "__EMPTY_5": "AKINDURO Oluwatumise",
+        "__EMPTY_6": "PATTERSON Chisom",
+        "__EMPTY_7": "AGORO Joseph"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 43,
+        "__EMPTY": "LAKEFIELD SCHOOLS",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "MELVIN AGADA",
+        "__EMPTY_3": "PRAISE FERDINAND",
+        "__EMPTY_4": "SHOBI ENWEREJI",
+        "__EMPTY_5": "OKIGBO UCHE",
+        "__EMPTY_6": "ZOE OKOROAFOR",
+        "__EMPTY_7": "FERDINAND AGARA"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 44,
+        "__EMPTY": "LEELAND INT. SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "JOSEPH - EZE",
+        "__EMPTY_3": "AFOR - MAXIMILIAN",
+        "__EMPTY_4": "JOSEPH - DELIGHT",
+        "__EMPTY_5": "AUDU - SETH",
+        "__EMPTY_6": "ABUN - CONFIDENCE",
+        "__EMPTY_7": "Solomon Olushola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 45,
+        "__EMPTY": "LISSA PEARLS COLLEGE",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "MICHELLE BABS GABRIEL",
+        "__EMPTY_3": "NWEKE AUGUSTINE",
+        "__EMPTY_4": "JOHN FAITH",
+        "__EMPTY_5": "FARRELL BABS GABRIEL",
+        "__EMPTY_6": "JOHN GODWIN",
+        "__EMPTY_7": "George abiodun Isaiah"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 46,
+        "__EMPTY": "Maryland Comprehensive Secondary School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "ADEPOJU AYOMIDE",
+        "__EMPTY_3": "ADEPOJU ANUOLUWAPO",
+        "__EMPTY_4": "OWUYE FAHEEZAH",
+        "__EMPTY_5": "OWUYE AL AMEEN ADEYEMI",
+        "__EMPTY_6": "OGUNLEYE ADEMILEYE SAMUEL",
+        "__EMPTY_7": "Mr HARUNA M.P"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 47,
+        "__EMPTY": "Mayflower private school",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Ogunfiditimi Bolaji",
+        "__EMPTY_3": "Fella Fikayomi",
+        "__EMPTY_4": "Adebule Samuel",
+        "__EMPTY_5": "Oladele David",
+        "__EMPTY_6": "Sadiku Adekunle",
+        "__EMPTY_7": "Mr Tosin Akingbade"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 48,
+        "__EMPTY": "Mayflower Public School",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Ihua Benjamin",
+        "__EMPTY_3": "Nemimiene Jomiloju",
+        "__EMPTY_4": "Balogun Emmanuel",
+        "__EMPTY_5": "Ganiyu Suliat",
+        "__EMPTY_6": "Abib Faizat",
+        "__EMPTY_7": "Mr Tosin Akingbade"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 49,
+        "__EMPTY": "Meadow Hall School (College)",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Adegite Adeola Oluwabukunmi",
+        "__EMPTY_3": "Adenusi Imran Ireoluwatomiwa",
+        "__EMPTY_4": "Amodu Ojochuyomi Abraham",
+        "__EMPTY_5": "Olatunji Nifemi",
+        "__EMPTY_6": "Adebiyi Tofunmi",
+        "__EMPTY_7": "Mr Chima Atuonwu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 50,
+        "__EMPTY": "MULTIGRACE COLLEGE",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "ADEIGA DAVID SEMILORE",
+        "__EMPTY_3": "NATHANIEL DANIEL",
+        "__EMPTY_4": "OMOBOWALE ISRAEL",
+        "__EMPTY_5": "OMOROWA OSAS",
+        "__EMPTY_6": "ORISAREMI AMIRAH",
+        "__EMPTY_7": "FAKOREDE ODUNAYO"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 51,
+        "__EMPTY": "NDA Staff Secondary School",
+        "__EMPTY_1": "Kaduna",
+        "__EMPTY_2": "Ola Elijah Praise",
+        "__EMPTY_3": "Ahmad Ibrahim Sagir",
+        "__EMPTY_4": "Adama Muhammad",
+        "__EMPTY_5": "Ewelah Rilwan-Ibiefo",
+        "__EMPTY_6": "Gift Sule Anthony",
+        "__EMPTY_7": "Ibrahim Ummar Rabiat"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 52,
+        "__EMPTY": "New Estate Baptist Secondary",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Emmanuel Oluwabiyi",
+        "__EMPTY_3": "Nzube Emeka-Obi",
+        "__EMPTY_4": "Arinze Afamudoh",
+        "__EMPTY_5": "David Okam",
+        "__EMPTY_6": "John Neakwasi",
+        "__EMPTY_7": "Mrs. Obukovwo Etudoh"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 53,
+        "__EMPTY": "NEW STATE HIGH SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Adeleye Qudus",
+        "__EMPTY_3": "Olaniba Divine",
+        "__EMPTY_4": "Agina Chinemerem",
+        "__EMPTY_5": "Nwanna David",
+        "__EMPTY_6": "Aweda Malik",
+        "__EMPTY_7": "Mr Nangol Nandet Joel"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 54,
+        "__EMPTY": "Newgate International School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Osineye Anjola",
+        "__EMPTY_3": "Obiejesi Godslove",
+        "__EMPTY_4": "Adeye Divine",
+        "__EMPTY_5": "Adebesin Taiwo",
+        "__EMPTY_6": "Anosike Emmanuel",
+        "__EMPTY_7": "Onoyom Michael Bassey"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 55,
+        "__EMPTY": "Newspring college",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Ephraim Adetoyinbo",
+        "__EMPTY_3": "Mojuasegunlo Kalejaiye",
+        "__EMPTY_4": "Jesulayomi Adebanjo",
+        "__EMPTY_5": "Obaloluwa Babalola",
+        "__EMPTY_6": "Beracha Adetoyinbo",
+        "__EMPTY_7": "Lekan Adeyemi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 56,
+        "__EMPTY": "NOWA SECONDARY SCHOOL OJO",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "BAMISEBI OLUWANIFEMI JUDAH",
+        "__EMPTY_3": "MORAH ISIOMA ESTHER",
+        "__EMPTY_4": "EJIMKONYE FAVOUR",
+        "__EMPTY_5": "MORAH MICHAEL",
+        "__EMPTY_6": "MORAH GABRIEL",
+        "__EMPTY_7": "OYAKHIOME ERNEST"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 57,
+        "__EMPTY": "Oto-Awori Senior Grammar School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Oke Joel",
+        "__EMPTY_3": "Osike Chukwuma",
+        "__EMPTY_4": "Chukwukieze David",
+        "__EMPTY_5": "Ifeanyi Williams",
+        "__EMPTY_6": "Omoniyi Sheriff",
+        "__EMPTY_7": "Anjorin Stephen Oluwaseun"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 58,
+        "__EMPTY": "Pegasus Schools Eket",
+        "__EMPTY_1": "Akwa Ibom",
+        "__EMPTY_2": "Virtue Otomfon Isong",
+        "__EMPTY_3": "Faithful Ernest Edward",
+        "__EMPTY_4": "Peter Abasibiangake Ezekiel",
+        "__EMPTY_5": "Desmond-Steve Ifenna Ezemmaduka",
+        "__EMPTY_6": "Otoabasi Jacob Idungafa",
+        "__EMPTY_7": "Oboh Sunday Bassey"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 59,
+        "__EMPTY": "Pinefield College Lekki",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Farid Farchoukh",
+        "__EMPTY_3": "Damilola Atoyebi",
+        "__EMPTY_4": "Eunice Onyegbu",
+        "__EMPTY_5": "Similoluwa Fatuna",
+        "__EMPTY_6": "Ifunanya Nwoye",
+        "__EMPTY_7": "Coach Adekunle"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 60,
+        "__EMPTY": "Pivot Model Academy",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Onibudo Mazeed",
+        "__EMPTY_3": "Soremi Muhammad",
+        "__EMPTY_4": "Adetola Maymunah",
+        "__EMPTY_5": "Amuni Muhammad",
+        "__EMPTY_6": "Ajayi Faheem",
+        "__EMPTY_7": "Adejumo Christopher Olawale"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 61,
+        "__EMPTY": "PLATFORM SCHOOLS",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Adekanye Adejuwon Aarif",
+        "__EMPTY_3": "Amir Obe Babatunde",
+        "__EMPTY_4": "Taiwo Daniel Olumide",
+        "__EMPTY_5": "Popoola Afope Taiwo",
+        "__EMPTY_6": "Taiwo Ibrahim",
+        "__EMPTY_7": "Akindayini Olumide"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 62,
+        "__EMPTY": "Positive Impact International school",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Olayode Goriola",
+        "__EMPTY_3": "Eze Gasper",
+        "__EMPTY_4": "Oladimeji Inioluwa",
+        "__EMPTY_5": "Orelusi Excel",
+        "__EMPTY_6": "Oyewole Kikianuoluwa",
+        "__EMPTY_7": "D-VINE CHESS ACADEMY"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 63,
+        "__EMPTY": "Prudence City College",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Anyaegbu Victor",
+        "__EMPTY_3": "Akinyemi Simi",
+        "__EMPTY_4": "Emmanuel David",
+        "__EMPTY_5": "Umarsadiq Hajara",
+        "__EMPTY_6": "Maibe Hawwa",
+        "__EMPTY_7": "Ikediashi Emmanuel Nick"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 64,
+        "__EMPTY": "Queens college",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Oluyisola Diamond",
+        "__EMPTY_3": "Ama-ugo Benedicta",
+        "__EMPTY_4": "Ama-Ugo Jovita",
+        "__EMPTY_5": "Oluyisola Banks",
+        "__EMPTY_6": "Mariam",
+        "__EMPTY_7": "Mr. Ogungbamila Leke"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 65,
+        "__EMPTY": "REDEEMER'S INTERNATIONAL SECONDARY SCHOOL MARYLAND LAGOS",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "ADEGBITE OMONIDE",
+        "__EMPTY_3": "OYEWO TOLU",
+        "__EMPTY_4": "OKAFOR CHIMEBUKA",
+        "__EMPTY_5": "TOBI TELLA",
+        "__EMPTY_6": "ANDE JOSHUA",
+        "__EMPTY_7": "MRS AKINRINWA-LAWSON"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 66,
+        "__EMPTY": "Rochester College",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Miracle Nnabueyi Ubalutu",
+        "__EMPTY_3": "Ugochukwu Justus Ugochukwu",
+        "__EMPTY_4": "Okafor Kingsley Ikechukwu",
+        "__EMPTY_5": "Marvellous Chikamso Agbasi",
+        "__EMPTY_6": "Oluwatobiloba Abraham Ajayi",
+        "__EMPTY_7": "Sanni Farouk Olawale"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 67,
+        "__EMPTY": "Roshallom International Secondary School",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Rume Ogar -Omare",
+        "__EMPTY_3": "Shunnom Daniel Wonderful",
+        "__EMPTY_4": "Durojaiye Jomiloju",
+        "__EMPTY_5": "Okiki Okunbo",
+        "__EMPTY_6": "Jasmine Owoeye",
+        "__EMPTY_7": "Mr Femi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 68,
+        "__EMPTY": "ROYAL CREST SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "ABOLAJI - MOYOSORE",
+        "__EMPTY_3": "MUSTAPHA - FAHEEM",
+        "__EMPTY_4": "MUSTAPHA - MUHEED",
+        "__EMPTY_5": "WINNER - SAMUEL",
+        "__EMPTY_6": "ADEFILA - ADEYEYE",
+        "__EMPTY_7": "Solomon Olushola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 69,
+        "__EMPTY": "SAINT JOSEPH SECONDARY SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "OGUNYEMI OLUSOJI",
+        "__EMPTY_3": "ONYEUKWU MAXIMILLIAN",
+        "__EMPTY_4": "EDICHA DANIEL",
+        "__EMPTY_5": "OBOTSE THEODORE",
+        "__EMPTY_6": "AYIM PASCAL",
+        "__EMPTY_7": "Mr EDWARD EVBUOMWAN"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 70,
+        "__EMPTY": "SASA COMMUNITY SENIOR HIGH SCHOOL, SASA",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "John Samuel",
+        "__EMPTY_3": "Luke Miracle",
+        "__EMPTY_4": "Uche Chioma",
+        "__EMPTY_5": "Adu David",
+        "__EMPTY_6": "Yusuf Abdullah",
+        "__EMPTY_7": "Olaniyan Taofeek"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 71,
+        "__EMPTY": "Scholars Academy, Ibadan",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Osakwe Samuel",
+        "__EMPTY_3": "Olakunle Subomi",
+        "__EMPTY_4": "Bamidele Rebecca",
+        "__EMPTY_5": "Ajani Kelly",
+        "__EMPTY_6": "Olibamoyo Glory",
+        "__EMPTY_7": "Opadijo Adeniyi Felix"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 72,
+        "__EMPTY": "SPRINGFORTE LEAD COLLEGE",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "CHIGBUNDU CHIDUBEM",
+        "__EMPTY_3": "OJO OLAMIDE",
+        "__EMPTY_4": "Nicole Matthew",
+        "__EMPTY_5": "Fabian Chigbundu",
+        "__EMPTY_6": "Ebunoluwa Adesola",
+        "__EMPTY_7": "MARTINS DAMILOLA"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 73,
+        "__EMPTY": "St Gregory's college,",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Nwankwo Victor Chibuikem",
+        "__EMPTY_3": "Fujah Olaoluwa",
+        "__EMPTY_4": "Otoijagha Bryan Kalomejesu",
+        "__EMPTY_5": "Mbaogu Raphael Chukwuka",
+        "__EMPTY_6": "Doyoh Tiempo Tamara Disemo",
+        "__EMPTY_7": "Ndujihe George"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 74,
+        "__EMPTY": "St. Thomas Aquinas Catholic College Okoko",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Chinonso Ella",
+        "__EMPTY_3": "Ohia Bright Kizito",
+        "__EMPTY_4": "Ezeaputa Onyeka Franklin",
+        "__EMPTY_5": "Nnuchukwu Benita",
+        "__EMPTY_6": "Izuadinma David",
+        "__EMPTY_7": "Anjorin Stephen Oluwaseun"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 75,
+        "__EMPTY": "STARCON COLLEGE",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "SAMUEL - JESSE",
+        "__EMPTY_3": "OMALE - ANTHONY",
+        "__EMPTY_4": "ADEWUNMI - BENJAMIN",
+        "__EMPTY_5": "ALAAYANDE - ADEWALE",
+        "__EMPTY_6": "AKINNUOYE - AYOMIDE",
+        "__EMPTY_7": "Solomon Olushola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 76,
+        "__EMPTY": "Sureville High School, Ikota",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Iyk-Maduagwu Sochima",
+        "__EMPTY_3": "Iyk-Maduagwu Kaosorochukwu",
+        "__EMPTY_4": "Chidi Ogochukwu",
+        "__EMPTY_5": "Ezeokonkwo Grant",
+        "__EMPTY_6": "Tolu Osasona",
+        "__EMPTY_7": "UFOT Benjamin VICTOR"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 77,
+        "__EMPTY": "Systems College",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Sheriff Azeez",
+        "__EMPTY_3": "Kisegbeji Benjamin",
+        "__EMPTY_4": "Dodo Ilyas",
+        "__EMPTY_5": "Vava Blessing",
+        "__EMPTY_6": "Dodo Musa",
+        "__EMPTY_7": "Ayodele Noutouglo"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 78,
+        "__EMPTY": "The Ambassadors schools, Ota",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Adesogan Demilade",
+        "__EMPTY_3": "Olugasa Omotayo",
+        "__EMPTY_4": "Diwe Neto",
+        "__EMPTY_5": "Adesogan Folajimi",
+        "__EMPTY_6": "Mgbejume Samuel",
+        "__EMPTY_7": "Oyelade Adewunmi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 79,
+        "__EMPTY": "TOP RANK INTELLECTUAL ACADEMY",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Akinsola Oreoluwa",
+        "__EMPTY_3": "Iyiola Bukunmi",
+        "__EMPTY_4": "Timothy Israel",
+        "__EMPTY_5": "Owolawi Oluwaseun",
+        "__EMPTY_6": "Timothy Samuel",
+        "__EMPTY_7": "Mr Bode Sofoluwe"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 80,
+        "__EMPTY": "Trinity International College, Ofada Ogun State",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Nwite Tochukwu Nelson",
+        "__EMPTY_3": "Uduokhai Ulofe Osemudiame",
+        "__EMPTY_4": "Adisa Ilerioluwa",
+        "__EMPTY_5": "Kasumu Obatide Eniolaoluwa",
+        "__EMPTY_6": "Isichei Derek",
+        "__EMPTY_7": "Oseni Adebanjo Olanrewaju"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 81,
+        "__EMPTY": "TRUEVINE SECONDARY",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "iTORO PRINCEWILL",
+        "__EMPTY_3": "ORIMOLOYE AYOBOLA",
+        "__EMPTY_4": "OBIWELU BLESSING",
+        "__EMPTY_5": "CHEJINA WEALTH",
+        "__EMPTY_6": "LAWAL ISRAEL",
+        "__EMPTY_7": "DAFIEWHAREN EFE"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 82,
+        "__EMPTY": "UCH Staff Secondary School. Ibadan",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Okeaya Inneh Gabriel",
+        "__EMPTY_3": "Soan Ongowu",
+        "__EMPTY_4": "Bello Abdulmalik",
+        "__EMPTY_5": "Oyegoke David",
+        "__EMPTY_6": "Melekwe David",
+        "__EMPTY_7": "Abimbolu Ogunbanwo"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 83,
+        "__EMPTY": "VALUE PLACE COLLEGE",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "OJIH GODSPOWER",
+        "__EMPTY_3": "Daniel Okoh",
+        "__EMPTY_4": "ADEBOYE OLAMIDE",
+        "__EMPTY_5": "BUORO ZOE",
+        "__EMPTY_6": "IGWE STEPHANIE",
+        "__EMPTY_7": "UMOH JOHN"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 84,
+        "__EMPTY": "WAHAB FOLAWIYO SENIOR HIGH SCHOOL",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ajani Abdullateef",
+        "__EMPTY_3": "Abdulrahman Muhammed",
+        "__EMPTY_4": "Daniel Isaac",
+        "__EMPTY_5": "Egobor Joseph",
+        "__EMPTY_6": "Okoye Victor",
+        "__EMPTY_7": "Williams Henry"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - SECONDARY": 85,
+        "__EMPTY": "Whitesprings secondary school",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ogunkua Treasure",
+        "__EMPTY_3": "Akinsiku Siju",
+        "__EMPTY_4": "Oluwole John Ayodamola",
+        "__EMPTY_5": "Emmanuel Ayeni",
+        "__EMPTY_6": "Chizzy Nwokejezie",
+        "__EMPTY_7": "Didimakon Steven"
+      },
+      {
+        "__EMPTY_4": "Lagos",
+        "__EMPTY_5": 63
+      },
+      {
+        "__EMPTY_4": "Ogun",
+        "__EMPTY_5": 8
+      },
+      {
+        "__EMPTY_4": "Oyo",
+        "__EMPTY_5": 6
+      },
+      {
+        "__EMPTY_4": "Akwa Ibom",
+        "__EMPTY_5": 2
+      },
+      {
+        "__EMPTY_4": "Kaduna",
+        "__EMPTY_5": 2
+      },
+      {
+        "__EMPTY_4": "Cross River",
+        "__EMPTY_5": 1
+      },
+      {
+        "__EMPTY_4": "Gombe",
+        "__EMPTY_5": 1
+      },
+      {
+        "__EMPTY_4": "Niger",
+        "__EMPTY_5": 1
+      },
+      {
+        "__EMPTY_4": "FCT",
+        "__EMPTY_5": 1
+      }
+    ],
+    "Tertiary": [
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": "S/N",
+        "__EMPTY": "School Name",
+        "__EMPTY_1": "State",
+        "__EMPTY_2": "Player 1",
+        "__EMPTY_3": "Player 2",
+        "__EMPTY_4": "Player 3",
+        "__EMPTY_5": "Player 4",
+        "__EMPTY_6": "Player 5",
+        "__EMPTY_7": "Coach/Tutor"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 1,
+        "__EMPTY": "Adekunle Ajasin University Akungba-Akoko",
+        "__EMPTY_1": "Ondo",
+        "__EMPTY_2": "AKINBODEWA Victor Adebayo",
+        "__EMPTY_3": "ADENEGAN David Oluwapelumi",
+        "__EMPTY_4": "ANIH Gabriel Onyedikachi",
+        "__EMPTY_5": "OLADEINDE Oyindamola Oluwagbemi",
+        "__EMPTY_6": "AKINGBESOTE Boluwatife O.",
+        "__EMPTY_7": "ATERE Pius Ajayi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 2,
+        "__EMPTY": "ANAMBRA STATE COLLEGE OF HEALTH TECHNOLOGYU OBOSI",
+        "__EMPTY_1": "Anambra",
+        "__EMPTY_2": "OMESU MIRACLE CHINYERE",
+        "__EMPTY_3": "IBAH MICHEAL EBUBE",
+        "__EMPTY_4": "NNAMDI CHIDERA PROSPER",
+        "__EMPTY_5": "TESTIMONY ONYEKWELU",
+        "__EMPTY_6": "OKEKE CHIDIEBELE CYPRAIN",
+        "__EMPTY_7": "ANYIJI EMEKA PATRICK"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 3,
+        "__EMPTY": "Auchi Polytechnic, AUCHI",
+        "__EMPTY_1": "Edo",
+        "__EMPTY_2": "FRIDAY MIRACLE EGHOSA",
+        "__EMPTY_3": "IGHODARO GADDIEL OGBEMODIA",
+        "__EMPTY_4": "AGHUGHU EGHOSA MICHAEL",
+        "__EMPTY_5": "IGHODARO ITHIEL OSAZUWA",
+        "__EMPTY_6": "OMAMAJEMITE OFEORITSE MARTIN",
+        "__EMPTY_7": "ELOGIE O. GRACE / OKUN FRANCIS .O"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 4,
+        "__EMPTY": "Benson Idahosa University",
+        "__EMPTY_1": "Edo",
+        "__EMPTY_2": "Okpeku faith",
+        "__EMPTY_3": "Osagie igwe Matthew",
+        "__EMPTY_4": "Osifo Japhet",
+        "__EMPTY_5": "Odigie nomamien victor",
+        "__EMPTY_6": "Akinrogunde Clinton",
+        "__EMPTY_7": "Akhamie Fidelis"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 5,
+        "__EMPTY": "Chess in Slums Africa (CISA)",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Jamiu Ninilowo",
+        "__EMPTY_3": "Omoyele Michael",
+        "__EMPTY_4": "John livinus",
+        "__EMPTY_5": "Stephen prosper ",
+        "__EMPTY_6": "Oladunjoye favour",
+        "__EMPTY_7": "Samson Ofubu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 6,
+        "__EMPTY": "College of Health Sciences, Unizik",
+        "__EMPTY_1": "Anambra",
+        "__EMPTY_2": "Nzotta Goodnews Chidera",
+        "__EMPTY_3": "Chukwuemeka Divine-Wisdom Ebubechukwu",
+        "__EMPTY_4": "Umeohana Excel Chukwudiebube",
+        "__EMPTY_5": "Abaraoha Nzubechi Emmanuel",
+        "__EMPTY_6": "Ikem Maryrose Onyinyechukwu",
+        "__EMPTY_7": "Odinaka Joshua Udochukwu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 7,
+        "__EMPTY": "College of Medicine, University of Lagos (CMUL)",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Eloka Raphael",
+        "__EMPTY_3": "Otika Charles",
+        "__EMPTY_4": "Aladejayan Isaac",
+        "__EMPTY_5": "Adebayo Oluwabojutomi",
+        "__EMPTY_6": "Anene Mmesoma Ngozika",
+        "__EMPTY_7": "Fadeyi Daniel"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 8,
+        "__EMPTY": "Covenant University",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Odusina Oluwaferanmi",
+        "__EMPTY_3": "Boluwatife Dada",
+        "__EMPTY_4": "Batubo Victory",
+        "__EMPTY_5": "Okwudei Blessing Ayomikun",
+        "__EMPTY_6": "Ojomo olamilekan",
+        "__EMPTY_7": "Boluwatife Olu James"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 9,
+        "__EMPTY": "Dominican University, Ibadan",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Frederick Atigogo",
+        "__EMPTY_3": "Brian Uzoma",
+        "__EMPTY_4": "Gerard Uzodinma",
+        "__EMPTY_5": "Dominic Ezemuokwe OP",
+        "__EMPTY_6": "Christabel Ezemba",
+        "__EMPTY_7": "Rev. Fr. Francis Chiadi OP"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 10,
+        "__EMPTY": "FEDERAL UNIVERSITY LOKOJA",
+        "__EMPTY_1": "Kogi",
+        "__EMPTY_2": "ABDULLAHI ABDULHAFIZ OMEIZA",
+        "__EMPTY_3": "ABIMBOLA MUKHTAR",
+        "__EMPTY_4": "OBADEMI OKIKIOLA",
+        "__EMPTY_5": "Alexander Ojochonu Michael",
+        "__EMPTY_6": "Joy Faizah Sule",
+        "__EMPTY_7": "Ichado Innocent Ibe"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 11,
+        "__EMPTY": "FEDERAL UNIVERSITY OF AGRICULTURE ABEOKUTA (FUNAAB)",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Onabanjo peter olamide",
+        "__EMPTY_3": "Ogunjimi kolawole timothy",
+        "__EMPTY_4": "Idris Fathia Oyinkansola",
+        "__EMPTY_5": "Ademola adedolapo solomon",
+        "__EMPTY_6": "Dada oluwasijibomi adefisayo",
+        "__EMPTY_7": "Odumbo lawrence"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 12,
+        "__EMPTY": "Federal University of Petroleum etroleum Resources Effurun",
+        "__EMPTY_1": "Delta",
+        "__EMPTY_2": "Agbakoba Alexander",
+        "__EMPTY_3": "Destiny Ebireri",
+        "__EMPTY_4": "Agbakoba Martins",
+        "__EMPTY_5": "Eniola Omotilewa",
+        "__EMPTY_6": "Rejoice Chinoyerem",
+        "__EMPTY_7": "Coach Morrison"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 13,
+        "__EMPTY": "Federal University of Technology Minna",
+        "__EMPTY_1": "Niger",
+        "__EMPTY_2": "Justus Ilegieuno",
+        "__EMPTY_3": "Theophilus Samson",
+        "__EMPTY_4": "Jonathan Ukwujie",
+        "__EMPTY_5": "Ifeoluwa Imole",
+        "__EMPTY_6": "Sylvia Chizoba Elochukwu",
+        "__EMPTY_7": "Segun Saliu"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 14,
+        "__EMPTY": "FEDERAL UNIVERSITY OF TECHNOLOGY OWERRI",
+        "__EMPTY_1": "Imo",
+        "__EMPTY_2": "Olisa Tennyson Ewomazino",
+        "__EMPTY_3": "Ossy Godsfavour Miracle",
+        "__EMPTY_4": "Mbah emmanuel Ugonna",
+        "__EMPTY_5": "Okonkwo Francis Chukwujekwu",
+        "__EMPTY_6": "Onwuchekwa Nneka Mercy",
+        "__EMPTY_7": "Charles Princewill Ifeanyi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 15,
+        "__EMPTY": "FEDERAL UNIVERSITY OYE EKITI(FUOYE)",
+        "__EMPTY_1": "Ekiti",
+        "__EMPTY_2": "Farohunbi Oluwadamilare",
+        "__EMPTY_3": "Anyaogu Chukwudi",
+        "__EMPTY_4": "Ogunsile David",
+        "__EMPTY_5": "Palmer Nathaniel Moyinoluwa",
+        "__EMPTY_6": "Akinniyi Deborah",
+        "__EMPTY_7": "Coach Richard"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 16,
+        "__EMPTY": "First Technical University",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Azeez Aleem",
+        "__EMPTY_3": "Alaya Oluwaseyi",
+        "__EMPTY_4": "Abdullahi Ololade",
+        "__EMPTY_5": "Olaniyan Pelumi",
+        "__EMPTY_6": "Olagoke Oluwaseyi",
+        "__EMPTY_7": "Stephen Adeyemo"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 17,
+        "__EMPTY": "Fountain University Osogbo",
+        "__EMPTY_1": "Osun",
+        "__EMPTY_2": "AbdulWahab Oriyomi Lawal",
+        "__EMPTY_3": "Adebimpe Akeem Adebayo",
+        "__EMPTY_4": "Balogun Al-ameen Oluwasegun",
+        "__EMPTY_5": "ADEBISI ALAMEEN OYINLOLA",
+        "__EMPTY_6": "Maryam Balogun Tolulope",
+        "__EMPTY_7": "Oluwafemi John Abiona"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 18,
+        "__EMPTY": "Gombe state university",
+        "__EMPTY_1": "Gombe",
+        "__EMPTY_2": "Tiko Jonathan Ambore",
+        "__EMPTY_3": "Mercy Iliya Namarwa",
+        "__EMPTY_4": "Elisha Sonny Melah",
+        "__EMPTY_5": "Ishaya Samuel Kolmi",
+        "__EMPTY_6": "Joshua Augustine Yoila",
+        "__EMPTY_7": "Yakkong Danmaryam"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 19,
+        "__EMPTY": "Ladoke Akintola University of Technology",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Ojo David Oluwatoyosi",
+        "__EMPTY_3": "Salimon Adebayo rasheed",
+        "__EMPTY_4": "Azeez Temitope Oluwatosin",
+        "__EMPTY_5": "Chukura Adawankaego Ololade",
+        "__EMPTY_6": "Victor Ugbede-Ojo Obuje",
+        "__EMPTY_7": "Mr Olusola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 20,
+        "__EMPTY": "Lagos State College of Nursing",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ademola Adekunle",
+        "__EMPTY_3": "Shodimu Sophia",
+        "__EMPTY_4": "Johnson Clinton",
+        "__EMPTY_5": "Olabayo winner",
+        "__EMPTY_6": "Okolie - Anene Aformajesu Newman",
+        "__EMPTY_7": "CA"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 21,
+        "__EMPTY": "Lagos State University",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Lawal Olawale Usman",
+        "__EMPTY_3": "Osilade Oluwapelumi Israel",
+        "__EMPTY_4": "Jimoh Rodiat Oyindamola",
+        "__EMPTY_5": "Adams Anieze Okpah",
+        "__EMPTY_6": "Umeodinka Chibuikem Jeremy",
+        "__EMPTY_7": "Olasunkanmi Raphael"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 22,
+        "__EMPTY": "Lagos State University of Education Oto, Ijanikin",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Olatunji Israel Oladotun",
+        "__EMPTY_3": "Metose Seton John",
+        "__EMPTY_4": "Akintunde Victoria",
+        "__EMPTY_5": "Nil",
+        "__EMPTY_6": "Nil",
+        "__EMPTY_7": "Adesanya Adekola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 23,
+        "__EMPTY": "Lagos state university of science and technology",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Adegbola Sodiq olamilekan",
+        "__EMPTY_3": "Oyelabi Jonathan",
+        "__EMPTY_4": "Akpan David Abasiofon",
+        "__EMPTY_5": "Yusuph fadeelilah Eyikunmi",
+        "__EMPTY_6": "Odunola Ibukun",
+        "__EMPTY_7": "Dr. Idowu Ibikunle Albert"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 24,
+        "__EMPTY": "Niger Delta University",
+        "__EMPTY_1": "Bayelsa",
+        "__EMPTY_2": "ALAGOA AYEBAENEMIBARAKERE DOMO",
+        "__EMPTY_3": "Opusigi Emi Emmanuel",
+        "__EMPTY_4": "Ataria Daniel",
+        "__EMPTY_5": "Ophibikoro Godspower Efe",
+        "__EMPTY_6": "Abadiofoni Shine Abadi",
+        "__EMPTY_7": "Kigigha Bomo"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 25,
+        "__EMPTY": "Nnamdi Azikiwe University",
+        "__EMPTY_1": "Anambra",
+        "__EMPTY_2": "Igbonekwu Ejike Felix",
+        "__EMPTY_3": "Okwuosa Joshua",
+        "__EMPTY_4": "Nnabuike David Chidera",
+        "__EMPTY_5": "Orjiekwe Raphael Chidera",
+        "__EMPTY_6": "Omesu Mercy Chiagozie",
+        "__EMPTY_7": "Udochukwu Odinaka Joshua"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 26,
+        "__EMPTY": "Obafemi Awolowo University.",
+        "__EMPTY_1": "Osun",
+        "__EMPTY_2": "Odetola Oluwatoni",
+        "__EMPTY_3": "Adeshina Ayomide",
+        "__EMPTY_4": "Adeyemi Bukumi",
+        "__EMPTY_5": "Oyebola Opeyemi",
+        "__EMPTY_6": "Ozemoje Victoria Olohijie",
+        "__EMPTY_7": "Omobola Waseelah Tijani"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 27,
+        "__EMPTY": "Ogun State Institute of Technology, Igbesa (OGITECH)",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Jimoh Lateef",
+        "__EMPTY_3": "Isaac Samson Ogbaji",
+        "__EMPTY_4": "Folorunsho Toheeb Adekunle",
+        "__EMPTY_5": "Rufai Qowiyat Opeyemi",
+        "__EMPTY_6": "Frank Omuji",
+        "__EMPTY_7": "Olufemi Oyeleke"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 28,
+        "__EMPTY": "Olabisi Onabanjo University",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Adedapo Jeremiah oluwaseyi",
+        "__EMPTY_3": "Adaramaja Temitope Favour",
+        "__EMPTY_4": "Aderinto Abdulateef Bamidele",
+        "__EMPTY_5": "Shontan Diana moyosore",
+        "__EMPTY_6": "Chukwuma Grace Gift",
+        "__EMPTY_7": "Talabi Olaniyi Moruf"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 29,
+        "__EMPTY": "Olusegun Agagu University of science and technology",
+        "__EMPTY_1": "Ondo",
+        "__EMPTY_2": "Luke Iyaak",
+        "__EMPTY_3": "Oke Adewumi David",
+        "__EMPTY_4": "Akinyemi Ezekiel Isaiah",
+        "__EMPTY_5": "Enikansakin Sijuade Sunday",
+        "__EMPTY_6": "Luke Iyaak",
+        "__EMPTY_7": "Mr. Tofunmi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 30,
+        "__EMPTY": "Redeemer's University",
+        "__EMPTY_1": "Osun",
+        "__EMPTY_2": "Otesanya David",
+        "__EMPTY_3": "Akinyele David",
+        "__EMPTY_4": "Chimkasinma Allison",
+        "__EMPTY_5": "Mark Ifeoluwa Emmanuella",
+        "__EMPTY_6": "Ojetunde Nifemi",
+        "__EMPTY_7": "Oladigbo Feranmi Oluwabobi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 31,
+        "__EMPTY": "The Federal Polytechnic, Ilaro",
+        "__EMPTY_1": "Ogun",
+        "__EMPTY_2": "Olagunju Eniola Rebecca Matric no: N/ST/22/3534",
+        "__EMPTY_3": "Kuforiji Emmanuel Matric no: N/BT/23/3520",
+        "__EMPTY_4": "Odifa boluwatife Joseph Matric no: N/MC/22/0431",
+        "__EMPTY_5": "Emedoh Ogheneovie Odiri Matric no: H/EE/23/1459",
+        "__EMPTY_6": "Awe Oladapo Matric no: N/NUD/23/0481",
+        "__EMPTY_7": "Sodeke kolawole Sunday"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 32,
+        "__EMPTY": "The Polytechnic, Ibadan",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Nwakamma Shiloh",
+        "__EMPTY_3": "Oloruntade Adebayo Richard",
+        "__EMPTY_4": "Ajayi Ifeoluwa Uziezi",
+        "__EMPTY_5": "Abayomi Adeyinka",
+        "__EMPTY_6": "Owoyomi Olawale Oluwatosin",
+        "__EMPTY_7": "Oyewale Alexis Odunayo"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 33,
+        "__EMPTY": "University of Abuja",
+        "__EMPTY_1": "FCT",
+        "__EMPTY_2": "Jamiu Sodiq olamilekan",
+        "__EMPTY_3": "Eke Victor",
+        "__EMPTY_4": "Olowolayemo Rotimi",
+        "__EMPTY_5": "Daniel onuh",
+        "__EMPTY_6": "Afoma Peace ndife",
+        "__EMPTY_7": "Awwal Maliki"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 34,
+        "__EMPTY": "University of Benin",
+        "__EMPTY_1": "Edo",
+        "__EMPTY_2": "Eyetonghan Denyefa Callistus",
+        "__EMPTY_3": "AIGBEKAEN, Effort Osawaru",
+        "__EMPTY_4": "Ikezahu, Emmanuel",
+        "__EMPTY_5": "Iyamu Yehudi Osafona",
+        "__EMPTY_6": "Michael Bridget",
+        "__EMPTY_7": "Osikhuemhe Wilson"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 35,
+        "__EMPTY": "UNIVERSITY OF IBADAN",
+        "__EMPTY_1": "Oyo",
+        "__EMPTY_2": "Oziegbe Promise",
+        "__EMPTY_3": "Akporherhe Blessing Bayo",
+        "__EMPTY_4": "Oguntona Abraham",
+        "__EMPTY_5": "Akinyemi David Olalekan",
+        "__EMPTY_6": "Ojo Abimbola",
+        "__EMPTY_7": "Madueke Emeka A"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 36,
+        "__EMPTY": "University of Ilorin",
+        "__EMPTY_1": "Kwara",
+        "__EMPTY_2": "Boluwatife Durojaiye",
+        "__EMPTY_3": "Abdulganiyu Afeez",
+        "__EMPTY_4": "Kenneth Gilbert",
+        "__EMPTY_5": "Azeezat Abdulsalam",
+        "__EMPTY_6": "Komolafe Olumide",
+        "__EMPTY_7": "Ayodeji Ayoyemi"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 37,
+        "__EMPTY": "University of Jos",
+        "__EMPTY_1": "Plateau",
+        "__EMPTY_2": "Salihu Bala Salihu",
+        "__EMPTY_3": "Paul Kelvin",
+        "__EMPTY_4": "Jerome Somunachi Sylvia",
+        "__EMPTY_5": "Agwadu Oliver Laani",
+        "__EMPTY_6": "Otokpa Promise Otokpa",
+        "__EMPTY_7": "Dr. Kusa Danjuma Nanfa"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 38,
+        "__EMPTY": "University of Lagos",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Okemakinde Toluwanimi",
+        "__EMPTY_3": "Okeke Isaac",
+        "__EMPTY_4": "Ogunsanya Tobiloba",
+        "__EMPTY_5": "Matan Adebayo",
+        "__EMPTY_6": "Agbazue Miracle",
+        "__EMPTY_7": "Mr Bayo Babalola"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 39,
+        "__EMPTY": "UNIVERSITY OF NIGERIA",
+        "__EMPTY_1": "Enugu",
+        "__EMPTY_2": "OMEJE DAVID TOCHUKWU",
+        "__EMPTY_3": "NWAEZE NNAEMEKA VINCENT",
+        "__EMPTY_4": "IZUAKOR PRINCEWILL CHINEMEREM",
+        "__EMPTY_5": "OGBONNAYA IKECHI EMMANUEL",
+        "__EMPTY_6": "EGBE KATE CHINYERE",
+        "__EMPTY_7": "EZEJIOFOR, MADUABUCHI"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 40,
+        "__EMPTY": "Yaba college of technology",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Ikediashi Emmanuel N.",
+        "__EMPTY_3": "Shoboyejo oluruntobi",
+        "__EMPTY_4": "Salako Clinton oluwatoba",
+        "__EMPTY_5": "Ojomo Nifemi Solomon",
+        "__EMPTY_6": "Anita Williams",
+        "__EMPTY_7": "Bolaji Johnson"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 41,
+        "__EMPTY": "ALX Learners A",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Honour Uche",
+        "__EMPTY_3": "Nwokocha Margaret",
+        "__EMPTY_4": "Jackson Mary",
+        "__EMPTY_5": "Muneeb Zafaran",
+        "__EMPTY_6": "Ayomide Ajayi",
+        "__EMPTY_7": "Adebimpe"
+      },
+      {
+        "ECOBANK NATIONAL SCHOOLS TEAM CHESS CHAMPIONSHIP 2024 - TERTIARY": 42,
+        "__EMPTY": "ALX Learners B",
+        "__EMPTY_1": "Lagos",
+        "__EMPTY_2": "Habeebat Ado",
+        "__EMPTY_3": "Aliu Rapheal Oluwashina",
+        "__EMPTY_4": "Salau Isiaka Olakunle",
+        "__EMPTY_5": "Aturu Opeyemi Samson",
+        "__EMPTY_6": "Bibiresanmi Oluwagbenga David",
+        "__EMPTY_7": "Odulana"
+      },
+      {
+        "__EMPTY_3": "Lagos",
+        "__EMPTY_4": 10
+      },
+      {
+        "__EMPTY_3": "Ogun",
+        "__EMPTY_4": 5
+      },
+      {
+        "__EMPTY_3": "Oyo",
+        "__EMPTY_4": 5
+      },
+      {
+        "__EMPTY_3": "Osun",
+        "__EMPTY_4": 3
+      },
+      {
+        "__EMPTY_3": "Edo",
+        "__EMPTY_4": 3
+      },
+      {
+        "__EMPTY_3": "Ondo",
+        "__EMPTY_4": 2
+      },
+      {
+        "__EMPTY_3": "Anambra",
+        "__EMPTY_4": 3
+      },
+      {
+        "__EMPTY_3": "Plateau",
+        "__EMPTY_4": 1
+      },
+      {
+        "__EMPTY_3": "Bayelsa",
+        "__EMPTY_4": 1
+      },
+      {
+        "__EMPTY_3": "Delta",
+        "__EMPTY_4": 1
+      },
+      {
+        "__EMPTY_3": "Ebonyi",
+        "__EMPTY_4": 1
+      },
+      {
+        "__EMPTY_3": "Gombe",
+        "__EMPTY_4": 1
+      },
+      {
+        "__EMPTY_3": "Ekiti",
+        "__EMPTY_4": 1
+      },
+      {
+        "__EMPTY_3": "Imo",
+        "__EMPTY_4": 1
+      },
+      {
+        "__EMPTY_3": "Kogi",
+        "__EMPTY_4": 1
+      },
+      {
+        "__EMPTY_3": "Kwara",
+        "__EMPTY_4": 1
+      },
+      {
+        "__EMPTY_3": "Niger",
+        "__EMPTY_4": 1
+      },
+      {
+        "__EMPTY_3": "FCT",
+        "__EMPTY_4": 1
+      }
+    ]
+  }

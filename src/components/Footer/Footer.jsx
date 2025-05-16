@@ -14,7 +14,7 @@ export const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <FaChess className="text-3xl text-blue-600" />
-              <h3 className="text-xl font-bold">National SSchool team chess championship</h3>
+              <h3 className="text-xl font-bold">National Schools team chess championship</h3>
             </div>
             <p className={`${isDarkMode ? 'text-gray-400' : 'text-gray-600'} mb-4`}>
               Promoting chess excellence and fostering young talents across Nigeria through competitive championships and educational initiatives.
@@ -51,7 +51,7 @@ export const Footer = () => {
               </li>
               <li className="flex items-center gap-2">
                 <FaEnvelope className="text-blue-600" />
-                {/* <span>info@nigeriachess.org</span> */}
+                nationalschoolsteamchess@gmail.com
               </li>
               <li className="flex items-center gap-2">
                 <FaMapMarkerAlt className="text-blue-600" />
