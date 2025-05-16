@@ -26,13 +26,7 @@ export const SponsorsMarquee = () => {
     { id: 1, name: "Ecobank", logo: ecobankLogo },
     { id: 2, name: "Sponsor 2", logo: fidelogo },
     { id: 3, name: "Sponsor 3", logo: ecobankLogo },
-    // { id: 4, name: "Sponsor 4", logo: ecobankLogo },
-    // { id: 5, name: "Sponsor 5", logo: ecobankLogo },
-    // { id: 6, name: "Sponsor 6", logo: ecobankLogo },
-    // // Duplicate sponsors to ensure continuous flow
-    // { id: 7, name: "Ecobank", logo: ecobankLogo },
-    // { id: 8, name: "Sponsor 2", logo: ecobankLogo },
-    // { id: 9, name: "Sponsor 3", logo: ecobankLogo },
+ 
   ];
 
   return (

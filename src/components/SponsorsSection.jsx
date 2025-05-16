@@ -1,44 +1,33 @@
 import { useRef } from "react";
-import { motion, useSpring } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import { useDarkMode } from "../context/DarkModeContext";
+import { useState, useEffect } from "react";
 
-// Import sponsor logos (you'll need to replace these with your actual sponsor logos)
+// Import sponsor logos
 import ecobankLogo from "../assets/image/sponsors/ecobank.png";
 import fidelogo from '../assets/image/sponsors/fide.png';
-// Add more sponsor logos as needed
 
 export const SponsorsSection = () => {
   const { isDarkMode } = useDarkMode();
-  const marqueeRef = useRef(null);
-  const speedSpring = useSpring(1, { damping: 30, stiffness: 80, mass: 3 });
-
-  // You can replace these with your actual sponsor logos
+  const [currentIndex, setCurrentIndex] = useState(0);
+  
   const sponsors = [
     { id: 1, name: "Ecobank", logo: ecobankLogo },
-    { id: 2, name: "Sponsor 2", logo: fidelogo}
-    // { id: 3, name: "Sponsor 3", logo: ecobankLogo },
-    // { id: 4, name: "Sponsor 4", logo: ecobankLogo },
-    // { id: 5, name: "Sponsor 5", logo: ecobankLogo },
-    // { id: 6, name: "Sponsor 6", logo: ecobankLogo },
-    // // Duplicate for continuous flow
-    // { id: 7, name: "Ecobank", logo: ecobankLogo },
-    // { id: 8, name: "Sponsor 2", logo: ecobankLogo },
-    // { id: 9, name: "Sponsor 3", logo: ecobankLogo },
+    { id: 2, name: "FIDE", logo: fidelogo},
   ];
 
-  // Simple marquee animation
-  const marqueeVariants = {
-    animate: {
-      x: [0, -1500],
-      transition: {
-        x: {
-          repeat: Infinity,
-          repeatType: "loop",
-          duration: 10,
-          ease: "linear",
-        },
-      },
-    },
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setCurrentIndex((prevIndex) => (prevIndex + 1) % sponsors.length);
+    }, 3000); // Change logo every 3 seconds
+
+    return () => clearInterval(timer);
+  }, []);
+
+  const slideVariants = {
+    enter: { x: 1000, opacity: 0 },
+    center: { x: 0, opacity: 1 },
+    exit: { x: -1000, opacity: 0 },
   };
 
   return (
@@ -46,29 +35,31 @@ export const SponsorsSection = () => {
       <div className="container mx-auto px-6 md:px-20">
         <h2 className="text-2xl font-bold text-center mb-8">Our Sponsors</h2>
         
-        <div className="overflow-hidden" ref={marqueeRef}>
-          <motion.div
-            className="flex items-center"
-            variants={marqueeVariants}
-            animate="animate"
-          >
-            {sponsors.map((sponsor) => (
-              <div 
-                key={sponsor.id} 
-                className={`mx-8 flex-shrink-0 w-32 h-20 rounded-lg shadow-sm flex items-center justify-center p-4 ${
-                  isDarkMode ? "bg-gray-700" : "bg-white"
-                }`}
-              >
-                <img 
-                  src={sponsor.logo} 
-                  alt={`${sponsor.name} logo`} 
-                  className={`max-w-full max-h-full object-contain ${isDarkMode ? "brightness-110" : ""}`}
-                />
-              </div>
-            ))}
-          </motion.div>
+        <div className="overflow-hidden relative h-20">
+          <AnimatePresence mode="wait">
+            <motion.div 
+              key={currentIndex}
+              className={`absolute left-0 right-0 mx-auto flex-shrink-0 w-32 h-20 rounded-lg shadow-sm flex items-center justify-center p-4 ${
+                isDarkMode ? "bg-gray-700" : "bg-white"
+              }`}
+              variants={slideVariants}
+              initial="enter"
+              animate="center"
+              exit="exit"
+              transition={{
+                duration: 0.5,
+                ease: "easeInOut"
+              }}
+            >
+              <img 
+                src={sponsors[currentIndex].logo} 
+                alt={`${sponsors[currentIndex].name} logo`} 
+                className={`max-w-full max-h-full object-contain ${isDarkMode ? "brightness-110" : ""}`}
+              />
+            </motion.div>
+          </AnimatePresence>
         </div>
       </div>
     </div>
   );
-}; 
+};
