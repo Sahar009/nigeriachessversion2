@@ -12,7 +12,7 @@ export const TournamentDetails = () => {
   };
 
   return (
-    <div className={`pt-24 min-h-screen ${isDarkMode ? 'bg-gray-900 text-white' : 'bg-gray-50 text-gray-800'}`}>
+    <div className={`pt-24 min-h-screen mb-10 ${isDarkMode ? 'bg-gray-900 text-white' : 'bg-gray-50 text-gray-800'}`}>
       <div className="container mx-auto px-6 md:px-20">
         {/* Header Section */}
         <div className="text-center mb-12">
@@ -133,7 +133,7 @@ export const TournamentDetails = () => {
         </div>
 
         {/* Download Regulations */}
-        <div className="flex flex-col md:flex-row justify-center gap-6 mb-16">
+        <div className="flex flex-col md:flex-row justify-center gap-6 mb-16 mx-10">
           <a 
             href="/assets/Ecobank National School Team Chess Championship 20_250512_141810.pdf"
             download
@@ -144,7 +144,7 @@ export const TournamentDetails = () => {
             }`}
           >
             <FaDownload />
-            <span>Download Tournament Regulations</span>
+            <span>Download Secondary Category Rules</span>
           </a>
           <a 
             href="/assets/Ecobank School Team Chess tournament Primary Category.pdf"
@@ -157,6 +157,18 @@ export const TournamentDetails = () => {
           >
             <FaDownload />
             <span>Download Primary Category Rules</span>
+          </a>
+          <a 
+            href="/assets/Ecobank national School Team Chess Championship 2025 Tertiary.pdf"
+            download
+            className={`flex items-center justify-center gap-3 px-6 py-3 rounded-lg transition-colors ${
+              isDarkMode 
+                ? 'bg-blue-600 hover:bg-blue-700 text-white' 
+                : 'bg-blue-500 hover:bg-blue-600 text-white'
+            }`}
+          >
+            <FaDownload />
+            <span>Download Tertiary Category Rules</span>
           </a>
         </div>
       </div>
