@@ -11,6 +11,7 @@ import { Gallery } from './pages/Gallery'
 import { DarkModeProvider } from './context/DarkModeContext'
 import { Footer } from './components/Footer/Footer'
 import { TournamentDetails } from './pages/TournamentDetails';
+import { NotFound } from './pages/NotFound';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
             <Route path="/register" element={<Register />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/tournament-details" element={<TournamentDetails />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
           <Footer/>
           <WhatsAppFloat />
