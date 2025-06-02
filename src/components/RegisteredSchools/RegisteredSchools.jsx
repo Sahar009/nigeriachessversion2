@@ -59,7 +59,7 @@ export const RegisteredSchools = () => {
   return (
     <section className={`registered-schools ${isDarkMode ? 'dark' : ''}`}>
       <div className="container">
-        <h2 className={isDarkMode ? 'dark' : ''}>Registered Schools for 2024 Event</h2>
+        <h2 className={isDarkMode ? 'dark' : ''}>Registered Schools for 2025 Event</h2>
         
         <div className="search-filter-container">
           <div className="search-box">
