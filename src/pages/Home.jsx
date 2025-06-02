@@ -9,6 +9,7 @@ import { BenefitsSection } from "../components/BenefitsSection";
 import { TestimonialsSection } from "../components/TestimonialsSection";
 import { Link } from 'react-router-dom';
 import { FAQSection } from "../components/FAQSection";
+import { RegisteredSchools } from "../components/RegisteredSchools/RegisteredSchools";
 
 export const Home = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -149,6 +150,9 @@ export const Home = () => {
           </div>
         </div>
       </section>
+
+      {/* Registered Schools Section */}
+      <RegisteredSchools />
 
       {/* Sponsors Section */}
       <div className={isDarkMode ? "bg-gray-800" : ""}>

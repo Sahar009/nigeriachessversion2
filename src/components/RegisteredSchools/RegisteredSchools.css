@@ -1,0 +1,265 @@
+:root {
+  --card-color-1: #7d62e8;
+  --card-color-2: #f98874;
+  --card-color-3: #c82f4bd3;
+  --card-color-4: #f3ae36;
+  --card-color-5: #236883;
+  --card-color-6: #0e622d;
+  
+  --dark-card-color-1: #2C3E50;
+  --dark-card-color-2: #34495E;
+  --dark-card-color-3: #2C3E50;
+  --dark-card-color-4: #34495E;
+  --dark-card-color-5: #2C3E50;
+  --dark-card-color-6: #34495E;
+}
+
+.registered-schools {
+  padding: 4rem 0;
+  background-color: #f8f9fa;
+  transition: background-color 0.3s ease;
+  height: 100%;
+}
+
+.registered-schools.dark {
+  background-color: #1a1a1a;
+}
+
+.registered-schools .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  height: 100%;
+}
+
+.registered-schools h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #333;
+  font-size: 2.5rem;
+  transition: color 0.3s ease;
+}
+
+.registered-schools h2.dark {
+  color: #fff;
+}
+
+.search-filter-container {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  position: sticky;
+  top: 0;
+  background-color: inherit;
+  padding: 1rem 0;
+  z-index: 10;
+}
+
+.search-box {
+  flex: 1;
+  min-width: 250px;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  background-color: white;
+}
+
+.search-box input.dark {
+  background-color: #2d2d2d;
+  border-color: #444;
+  color: #fff;
+}
+
+.search-box input:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+.search-box input.dark:focus {
+  border-color: #4dabf7;
+}
+
+.category-filter select {
+  padding: 0.8rem 1rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  font-size: 1rem;
+  background-color: white;
+  cursor: pointer;
+  min-width: 200px;
+  transition: all 0.3s ease;
+}
+
+.category-filter select.dark {
+  background-color: #2d2d2d;
+  border-color: #444;
+  color: #fff;
+}
+
+.category-filter select:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+.category-filter select.dark:focus {
+  border-color: #4dabf7;
+}
+
+.schools-category {
+  margin-bottom: 3rem;
+}
+
+.schools-category h3 {
+  color: #444;
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 0.5rem;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+.schools-category h3.dark {
+  color: #fff;
+  border-bottom-color: #4dabf7;
+}
+
+.schools-container {
+  max-height: 70vh;
+  overflow-y: auto;
+  padding-right: 1rem;
+  scrollbar-width: thin;
+  scrollbar-color: #007bff #f8f9fa;
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+}
+
+.schools-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.schools-container::-webkit-scrollbar-track {
+  background: #f8f9fa;
+  border-radius: 4px;
+}
+
+.schools-container::-webkit-scrollbar-thumb {
+  background-color: #007bff;
+  border-radius: 4px;
+}
+
+.schools-container.dark::-webkit-scrollbar-track {
+  background: #2d2d2d;
+}
+
+.schools-container.dark::-webkit-scrollbar-thumb {
+  background-color: #4dabf7;
+}
+
+.schools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.school-card {
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.school-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1));
+  transition: opacity 0.3s ease;
+  opacity: 0;
+}
+
+.school-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.school-card:hover::before {
+  opacity: 1;
+}
+
+.school-card.dark {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.school-name {
+  font-size: 1.1rem;
+  color: #333;
+  line-height: 1.4;
+  transition: color 0.3s ease;
+}
+
+.school-card.dark .school-name {
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .registered-schools {
+    padding: 2rem 0;
+    height: calc(110vh - 5px); /* Adjust based on your header height */
+  }
+
+  .registered-schools h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .search-filter-container {
+    flex-direction: column;
+    position: sticky;
+    top: 0;
+    background-color: inherit;
+    padding: 0.5rem 0;
+    margin-bottom: 1rem;
+  }
+
+  .search-box,
+  .category-filter select {
+    width: 100%;
+  }
+
+  .schools-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .schools-container {
+    max-height: calc(90vh - 300px); /* Adjust based on your header and search container height */
+    overflow-y: auto;
+    padding-right: 0.5rem;
+  }
+
+  .school-card {
+    padding: 1.2rem;
+  }
+
+  .school-name {
+    font-size: 1rem;
+  }
+
+  /* Improve touch scrolling on mobile */
+  .schools-container {
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+  }
+} 
