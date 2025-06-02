@@ -5,7 +5,7 @@ import { HiBarsArrowDown, HiBarsArrowUp } from "react-icons/hi2";
 import { FiSun, FiMoon } from "react-icons/fi";
 import { useDarkMode } from "../../context/DarkModeContext";
 
-const LOGO_URL = "https://res.cloudinary.com/do537qymc/image/upload/v1747035079/Chess_Championship-02_qbkycl.png";
+const LOGO_URL = "https://res.cloudinary.com/ds5nnf5hi/image/upload/v1748890438/EcobanktournamentLogo_um1w0x.png";
 
 export const Nav = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -42,7 +42,7 @@ export const Nav = () => {
         {/* Logo */}
         <Link to='/'>
           <div className="w-36">
-            <img src={LOGO_URL} alt="logo" className={isDarkMode ? "filter brightness-150" : ""} />
+            <img src={LOGO_URL} alt="logo" className={isDarkMode ? "filter brightness-70 w-36 h-20" : "w-36 h-20"} />
           </div>
         </Link>
 
@@ -76,6 +76,11 @@ export const Nav = () => {
               isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
             }`}>
               <Link to='/tournament-details'>Tournament details</Link>
+            </li>
+            <li className={`cursor-pointer transition-colors ${
+              isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
+            }`}>
+              <Link to='/registered-schools'>Registered Schools</Link>
             </li>
             <li className={`cursor-pointer transition-colors ${
               isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
@@ -150,6 +155,11 @@ export const Nav = () => {
             isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
           }`}>
             <Link to='/gallery'>Gallery</Link>
+          </li>
+          <li className={`cursor-pointer transition-colors ${
+            isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
+          }`}>
+            <Link to='/registered-schools'>Registered Schools</Link>
           </li>
           <li className={`cursor-pointer transition-colors ${
             isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"

@@ -152,7 +152,7 @@ export const Home = () => {
       </section>
 
       {/* Registered Schools Section */}
-      <RegisteredSchools />
+      {/* <RegisteredSchools /> */}
 
       {/* Sponsors Section */}
       <div className={isDarkMode ? "bg-gray-800" : ""}>
