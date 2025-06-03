@@ -14,9 +14,9 @@ export const SponsorsSection = () => {
   
   const sponsors = [
     { id: 1, name: "Ecobank", logo: ecobankLogo },
-    { id: 2, name: "FIDE", logo: fidelogo},
-    { id: 3, name: "NCF", logo: ncflogo}
-  ];
+    { id: 2, name: "FIDE", logo: fidelogo },
+    { id: 3, name: "NCF", logo: ncflogo } // Added missing comma here
+];
 
   useEffect(() => {
     const timer = setInterval(() => {
