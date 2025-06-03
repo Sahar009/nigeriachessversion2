@@ -9,6 +9,8 @@ import { BenefitsSection } from "../components/BenefitsSection";
 import { TestimonialsSection } from "../components/TestimonialsSection";
 import { Link } from 'react-router-dom';
 import { FAQSection } from "../components/FAQSection";
+import { GiChessKnight, GiChessPawn } from 'react-icons/gi';
+import { FiArrowRight } from 'react-icons/fi';
 import { RegisteredSchools } from "../components/RegisteredSchools/RegisteredSchools";
 
 export const Home = () => {
@@ -153,6 +155,34 @@ export const Home = () => {
 
       {/* Registered Schools Section */}
       {/* <RegisteredSchools /> */}
+
+      {/* Registered Schools CTA Section */}
+      <section className={`py-16 relative overflow-hidden ${isDarkMode ? 'bg-gray-800' : 'bg-gray-50'}`}>
+        <div className="absolute inset-0 flex items-center justify-center opacity-20">
+          <GiChessKnight className="text-[200px] animate-pulse" />
+          <GiChessQueen className="text-[180px] ml-32 animate-pulse delay-300" />
+          <GiChessPawn className="text-[150px] ml-64 animate-pulse delay-500" />
+        </div>
+        <div className="container mx-auto px-4 text-center relative z-10">
+          <h2 className={`text-3xl md:text-4xl font-bold mb-6 ${isDarkMode ? 'text-white' : 'text-gray-900'}`}>
+            See Our Registered Schools
+          </h2>
+          <p className={`text-lg mb-8 max-w-2xl mx-auto ${isDarkMode ? 'text-gray-300' : 'text-gray-600'}`}>
+            Discover all the schools participating in this year's championship
+          </p>
+          <Link 
+            to="/registered-schools"
+            className={`inline-flex items-center px-6 py-3 rounded-lg text-lg font-medium transition-all ${
+              isDarkMode 
+                ? 'bg-blue-600 hover:bg-blue-700 text-white' 
+                : 'bg-blue-600 hover:bg-blue-700 text-white'
+            }`}
+          >
+            View Registered Schools
+            <FiArrowRight className="ml-2 text-xl" />
+          </Link>
+        </div>
+      </section>
 
       {/* Sponsors Section */}
       <div className={isDarkMode ? "bg-gray-800" : ""}>
