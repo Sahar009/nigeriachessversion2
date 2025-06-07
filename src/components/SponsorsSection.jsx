@@ -7,7 +7,7 @@ import { useState, useEffect } from "react";
 import ecobankLogo from "../assets/image/sponsors/ecobank.png";
 import fidelogo from '../assets/image/sponsors/fide.png';
 import ncflogo from '../assets/image/sponsors/ncf old.png';
-import mtnLogo from "../assets/image/sponsors/fide.png"
+import mtnLogo from "../assets/image/sponsors/schoolmate.jpg"
 
 export const SponsorsSection = () => {
   const { isDarkMode } = useDarkMode();
