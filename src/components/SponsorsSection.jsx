@@ -7,7 +7,10 @@ import { useState, useEffect } from "react";
 import ecobankLogo from "../assets/image/sponsors/ecobank.png";
 import fidelogo from '../assets/image/sponsors/fide.png';
 import ncflogo from '../assets/image/sponsors/ncf old.png';
-import mtnLogo from "../assets/image/sponsors/schoolmate.jpg"
+import schoolLogo from "../assets/image/sponsors/schoolmate.jpg"
+import mtnLogo from "../assets/image/sponsors/mtn.png"
+
+
 
 export const SponsorsSection = () => {
   const { isDarkMode } = useDarkMode();
@@ -17,7 +20,9 @@ export const SponsorsSection = () => {
     { id: 1, name: "Ecobank", logo: ecobankLogo },
     { id: 2, name: "FIDE", logo: fidelogo},
     { id: 4, name: "NCF", logo: ncflogo},
-    { id: 3, name: "MTN", logo: mtnLogo},
+    { id: 3, name: "SCHOOL", logo: schoolLogo},
+    { id: 5, name: "MTN", logo: mtnLogo},
+    
   ];
 
   useEffect(() => {
@@ -39,11 +44,11 @@ export const SponsorsSection = () => {
       <div className="container mx-auto px-6 md:px-20">
         <h2 className="text-2xl font-bold text-center mb-8">Our Sponsors</h2>
         
-        <div className="overflow-hidden relative h-20">
+        <div className="overflow-hidden relative h-40">
           <AnimatePresence mode="wait">
             <motion.div 
               key={currentIndex}
-              className={`absolute left-0 right-0 mx-auto flex-shrink-0 w-32 h-20 rounded-lg shadow-sm flex items-center justify-center p-4 ${
+              className={`absolute left-0 right-0 mx-auto flex-shrink-0 w-48 h-40 rounded-lg shadow-sm flex items-center justify-center p-4 ${
                 isDarkMode ? "bg-gray-700" : "bg-white"
               }`}
               variants={slideVariants}
@@ -58,7 +63,7 @@ export const SponsorsSection = () => {
               <img 
                 src={sponsors[currentIndex].logo} 
                 alt={`${sponsors[currentIndex].name} logo`} 
-                className={`max-w-full max-h-full object-contain ${isDarkMode ? "brightness-110" : ""}`}
+                className={`max-w-full max-h-full object-contain mx-auto ${isDarkMode ? "brightness-110" : ""}`}
               />
             </motion.div>
           </AnimatePresence>
