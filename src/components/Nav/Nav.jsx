@@ -87,6 +87,11 @@ export const Nav = () => {
             }`}>
               <Link to='/gallery'>Gallery</Link>
             </li>
+            <li className={`cursor-pointer transition-colors ${
+              isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
+            }`}>
+              <Link to='/tournament-results'>Results</Link>
+            </li>
             {/* <li className={`cursor-pointer transition-colors ${
               isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
             }`}>
@@ -166,6 +171,11 @@ export const Nav = () => {
           }`}>
             <Link to='/tournament-details'>Tournament Details</Link>
           </li>
+          <li className={`cursor-pointer transition-colors ${
+              isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
+            }`}>
+              <Link to='/tournament-results'>Results</Link>
+            </li>
           {/* <li className={`cursor-pointer transition-colors ${
             isDarkMode ? "text-gray-200 hover:text-white" : "text-dark-gray hover:text-blue-600"
           }`}>

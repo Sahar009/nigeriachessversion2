@@ -13,6 +13,7 @@ import { Footer } from './components/Footer/Footer'
 import { TournamentDetails } from './pages/TournamentDetails';
 import { RegisteredSchoolsList } from './pages/RegisteredSchoolsList';
 import { NotFound } from './pages/NotFound';
+import { TournamentResults } from './pages/TournamentResults';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
             <Route path="/tournament-details" element={<TournamentDetails />} />
             <Route path="*" element={<NotFound />} />
             <Route path="/registered-schools" element={<RegisteredSchoolsList />} />
+            <Route path="/tournament-results" element={<TournamentResults />} />
           </Routes>
           <Footer/>
           <WhatsAppFloat />
