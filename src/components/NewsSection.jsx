@@ -10,7 +10,7 @@ export const NewsSection = () => {
       id: 1,
       title: "Registration Now Open",
       date: "May 16, 2025",
-      content: "Registration for the National Schools Team Chess Championship 2025 is now open. Registreation closes  June 1st.",
+      content: "Registration for the National Schools Team Chess Championship 2025 is now open. Registration closes  June 1st.",
       image: "https://res.cloudinary.com/do537qymc/image/upload/v1747044108/WhatsApp_Image_2025-05-12_at_10.59.18_6d2f3ea0_ft6vot.jpg"
     },
     {
