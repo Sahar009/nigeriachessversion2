@@ -18,10 +18,11 @@ export const SponsorsSection = () => {
   
   const sponsors = [
     { id: 1, name: "Ecobank", logo: ecobankLogo },
-    { id: 2, name: "FIDE", logo: fidelogo},
+    { id: 2, name: "MTN", logo: mtnLogo},
+    { id: 3, name: "FIDE", logo: fidelogo},
     { id: 4, name: "NCF", logo: ncflogo},
-    { id: 3, name: "SCHOOL", logo: schoolLogo},
-    { id: 5, name: "MTN", logo: mtnLogo},
+    { id: 5, name: "SCHOOL", logo: schoolLogo},
+    
     
   ];
 
