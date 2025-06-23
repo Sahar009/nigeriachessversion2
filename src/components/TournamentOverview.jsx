@@ -4,6 +4,7 @@ import { useDarkMode } from "../context/DarkModeContext";
 import { FaTrophy, FaChessBoard, FaCalendarAlt, FaMapMarkerAlt, FaArrowRight,FaUsers } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { TournamentStatsModal } from "./TournamentStatsModal";
+import { TournamentStatsModal2025 } from "./TournamentStatsModal2025";
 
 // Remove the imports and declare the URLs as constants
 const tournamentImage1 = "https://res.cloudinary.com/do537qymc/image/upload/v1747374682/winner-primary_xrhs2s.jpg";
@@ -16,6 +17,7 @@ export const TournamentOverview = () => {
   const ref = useRef(null);
   const isInView = useInView(ref, { once: false, amount: 0.3 });
   const [isStatsModalOpen, setIsStatsModalOpen] = useState(false);
+  const [is2025StatsModalOpen, setIs2025StatsModalOpen] = useState(false);
   
   useEffect(() => {
     if (isInView) {
@@ -168,16 +170,28 @@ export const TournamentOverview = () => {
                 variants={itemVariants}
                 className="text-center mb-4 sm:mb-8"
               >
-                <button
-                  onClick={() => setIsStatsModalOpen(true)}
-                  className={`w-full sm:w-auto px-4 sm:px-6 py-2 sm:py-3 rounded-lg transition-all ${
-                    isDarkMode 
-                      ? "bg-blue-500 hover:bg-blue-600" 
-                      : "bg-blue-600 hover:bg-blue-700"
-                  } text-white font-medium`}
-                >
-                  View 2024 Tournament Statistics
-                </button>
+                <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                  <button
+                    onClick={() => setIsStatsModalOpen(true)}
+                    className={`w-full sm:w-auto px-4 sm:px-6 py-2 sm:py-3 rounded-lg transition-all ${
+                      isDarkMode 
+                        ? "bg-blue-500 hover:bg-blue-600" 
+                        : "bg-blue-600 hover:bg-blue-700"
+                    } text-white font-medium`}
+                  >
+                    View 2024 Tournament Statistics
+                  </button>
+                  <button
+                    onClick={() => setIs2025StatsModalOpen(true)}
+                    className={`w-full sm:w-auto px-4 sm:px-6 py-2 sm:py-3 rounded-lg transition-all ${
+                      isDarkMode 
+                        ? "bg-green-500 hover:bg-green-600" 
+                        : "bg-green-600 hover:bg-green-700"
+                    } text-white font-medium`}
+                  >
+                    View 2025 Tournament Statistics
+                  </button>
+                </div>
               </motion.div>
   
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
@@ -267,6 +281,10 @@ export const TournamentOverview = () => {
       <TournamentStatsModal 
         isOpen={isStatsModalOpen} 
         onClose={() => setIsStatsModalOpen(false)} 
+      />
+      <TournamentStatsModal2025 
+        isOpen={is2025StatsModalOpen} 
+        onClose={() => setIs2025StatsModalOpen(false)} 
       />
     </>
   );

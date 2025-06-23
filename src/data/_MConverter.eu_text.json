@@ -1,0 +1,11 @@
+ setSelectedConversation(conversation);
+    await loadMessages(conversation);
+  
+
+    if (response.data.success) {
+      setMessage('');
+      setSelectedFiles([]);
+      await loadMessages(selectedConversation);
+    } else {
+      throw new Error(response.data.message || 'Failed to send message');
+    }

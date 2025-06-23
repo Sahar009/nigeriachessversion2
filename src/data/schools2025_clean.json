@@ -1,0 +1,234 @@
+{
+  "primary": [
+    {
+      "id": 1,
+      "schoolName": "Abifid School",
+      "state": "Lagos",
+      "players": [
+        "Oluwatise Akinnagbe",
+        "Joseph Adebayo",
+        "Chinaza Maduafor",
+        "Oluwafisayo Fatoyinbo",
+        "Ifeoma Okenwa"
+      ],
+      "coach": "John Umoh",
+      "coachPhone": "7039163021",
+      "director": "Mrs Abifid",
+      "directorPhone": "+234 802 342 4298"
+    },
+    {
+      "id": 2,
+      "schoolName": "Access Bank Fifth Chukker Pry School",
+      "state": "Kaduna",
+      "players": [
+        "Yahaya M Salisu",
+        "Auwal Salisu",
+        "Aliyu Rabiu",
+        "Maryam Balarabe",
+        "Maryam Muhammad"
+      ],
+      "coach": "Abdulkhaliq Abdulsalam",
+      "coachPhone": "8118284721",
+      "director": "Abiodun Adegboye",
+      "directorPhone": "8023032773"
+    },
+    {
+      "id": 3,
+      "schoolName": "Accolade House Montessori School",
+      "state": "Lagos",
+      "players": [
+        "Joshua Tombia",
+        "Nathan Aboje",
+        "Joshua Olaniran",
+        "Andre Ndukwe",
+        "Idaraobong Tombia"
+      ],
+      "coach": "Benjamin Victor",
+      "coachPhone": "8136187303",
+      "director": "Unyime Okorosobo",
+      "directorPhone": "9051066749"
+    },
+    {
+      "id": 4,
+      "schoolName": "Ademuyiwa Memorial School",
+      "state": "Ogun",
+      "players": [
+        "Dasaolu Zion",
+        "Dasaolu Zipporah",
+        "Adegbite Heritage",
+        "Ewaogo odeogbola Raynold",
+        "Kuyooro David"
+      ],
+      "coach": "Ajayi Temitope Esther",
+      "coachPhone": "8101667220",
+      "director": "Mr Ademuyiwa Olufemi",
+      "directorPhone": "8143229138"
+    },
+    {
+      "id": 5,
+      "schoolName": "Adorable Toes School",
+      "state": "Lagos",
+      "players": [
+        "Joel Elijah",
+        "Temidire Balogun",
+        "Aghogho Oweibo",
+        "Nathan Iheagwam",
+        "Mokorejo Balogun"
+      ],
+      "coach": "Victor Benjamin",
+      "coachPhone": "8136187303",
+      "director": "Ajayi Muyiwa",
+      "directorPhone": "8023679228"
+    },
+    {
+      "id": 6,
+      "schoolName": "AGES HOME SCHOOL",
+      "state": "Lagos",
+      "players": [
+        "OMOTOSHO IBUKUNOLUWA",
+        "IBRAHIM JAFARU",
+        "BRAIMAH CHEVONNE",
+        "UCHEKA KAMDILICHUKWU",
+        "EMMANUEL KAMSIYOCHUKWU"
+      ],
+      "coach": "Toluwalase Kwassi",
+      "coachPhone": "8081809219",
+      "director": "Josephine Kwassi",
+      "directorPhone": "8134867981"
+    },
+    {
+      "id": 7,
+      "schoolName": "AL-AZEEMAH SCHOOLS",
+      "state": "Lagos",
+      "players": [
+        "MUHAMMAD SALISU",
+        "ABDULMUIZ LAWAL",
+        "LUQMAN AGBELU",
+        "JAMEEL OKEWOLE",
+        "HEEQMAH KAZEEM"
+      ],
+      "coach": "TOMIWA ADELEKE",
+      "coachPhone": "2349070000000",
+      "director": "BASIRAT OROPO",
+      "directorPhone": "8056167253"
+    },
+    {
+      "id": 8,
+      "schoolName": "Alpha's Choice Montessori School",
+      "state": "Lagos",
+      "players": [
+        "Joseph Idowu",
+        "Eze Kelvin",
+        "Onaolapo Derrick Tobiloba",
+        "Idowu Oluwatobiloba Rhoda",
+        "Oragwa Triumph"
+      ],
+      "coach": "Mr. Koya Stephen",
+      "coachPhone": "8022847453",
+      "director": "Oluwabunmi Odubanjo",
+      "directorPhone": "9054175114"
+    }
+  ],
+  "secondary": [
+    {
+      "id": 1,
+      "schoolName": "AlphaSoteria Nursery & Primary School, Magodo",
+      "state": "Lagos",
+      "players": ["Ayo Obelawo Toluwa", "Okeowo Zuriel", "Madu Chikaima", "Arokoyo Tobiloba", "Soewu Remilekun"],
+      "coach": "Mr. Michael",
+      "coachPhone": "7034233449",
+      "director": "Mrs. Folake Bamidele Abegunde",
+      "directorPhone": "8030769119"
+    },
+    {
+      "id": 2,
+      "schoolName": "Amazing Elect Redeemer's School",
+      "state": "Lagos",
+      "players": ["Marcel Benin", "Lewis Benin", "Oreoluwa Olutayo", "Deborah Foss", "Ivan Doroh"],
+      "coach": "Mr. Collins",
+      "coachPhone": "7012853562",
+      "director": "Mrs. Olasunkanmi",
+      "directorPhone": "8065241851"
+    },
+    {
+      "id": 3,
+      "schoolName": "Amiable Preparatory School",
+      "state": "Lagos",
+      "players": ["AJURUCHI BENJAMIN IKENNA", "AWOLEYE IREOLUWA PRISCILIA", "AKINLAWON QUANITA ADEOLA", "OKUNOWO ANJOLAOLUWA DEMILADE", "DAVID AYOOLUWA UZONDU"],
+      "coach": "KAFAYAT ALEBIOSU",
+      "coachPhone": "9013082197",
+      "director": "OLUBUNMI OMOLOLA ODEYINKA",
+      "directorPhone": "8023300655"
+    },
+    {
+      "id": 4,
+      "schoolName": "Baqis Springfield School",
+      "state": "Lagos",
+      "players": ["Kamil Yusuf", "Jimoh Al-Ameen", "Oladigbolu Amatullah", "Abegunde Fawzan", "Bakinde AbdulBasit Adedayo"],
+      "coach": "Mr Austin of CAN Chess Academy",
+      "coachPhone": "07066026015",
+      "director": "Mrs. Alani",
+      "directorPhone": "7087984978"
+    },
+    {
+      "id": 5,
+      "schoolName": "Berkley Science Magnet School",
+      "state": "Lagos",
+      "players": ["Mfonmma-Abasi Mfoniso-Jude", "Williams Anjolaoluwa", "Sukanmi Arinde", "Oreoluwa Williams", "Olaoluwa Tomosori"],
+      "coach": "Ogbang Timothy",
+      "coachPhone": "8071645103",
+      "director": "Lillian Tom",
+      "directorPhone": "7030243437"
+    },
+    {
+      "id": 6,
+      "schoolName": "Best Horizon Heritage",
+      "state": "Lagos",
+      "players": ["Justice Audu Ikuoju", "Afreen Aisha Abubakar", "Purity Eki Omoruyi", "Chiamanda Sonia Maduagwu", "Darasimi Adesua Akpata"],
+      "coach": "Oludotun Rowland",
+      "coachPhone": "8033563566",
+      "director": "Mrs Ogundolapo",
+      "directorPhone": "8023100164"
+    },
+    {
+      "id": 7,
+      "schoolName": "Bethany Hall School",
+      "state": "Lagos",
+      "players": ["AMPITAN David OLUGBENGA", "AMPITAN OLUWATOBI DANIEL", "Amaraegbu Beryl Nneka", "Ogunbayo David Diekolopemi", "AYODELE OLUWADAMILOLA VICTORIA"],
+      "coach": "Fasinu Tolulope",
+      "coachPhone": "8065144039",
+      "director": "Mrs Johnson",
+      "directorPhone": "+2348030803904"
+    },
+    {
+      "id": 8,
+      "schoolName": "Bisniy Private Schools",
+      "state": "Lagos",
+      "players": ["Adeyemo Michael", "Ayodele Oluwapemisire Enoch", "Nwokeanochiri Pascal", "Excel Ololade", "Olawore Abdus-Salaam Adedamola"],
+      "coach": "Mrs. Oluwabunmi Aina",
+      "coachPhone": "8034653353",
+      "director": "Mrs Taiwo Brown",
+      "directorPhone": "8055382826"
+    },
+    {
+      "id": 9,
+      "schoolName": "BLOOMSEED ELEMENTARY SCHOOL ABEOKUTA",
+      "state": "Ogun",
+      "players": ["Fatoyinbo John", "AYOOLA ABDULHAQQ", "SOYOMBO OREOFE", "DARAMOLA ABDULRAHMAN", "ADELUOLA MOROLA"],
+      "coach": "Ajayi Temitope Esther",
+      "coachPhone": "8101667220",
+      "director": "Mrs Oriyom",
+      "directorPhone": "+2348032824746"
+    },
+    {
+      "id": 10,
+      "schoolName": "BOSOL GROUP OF SCHOOLS",
+      "state": "Lagos",
+      "players": ["Samuel - Jimoh", "Omaka - Ephraim", "Emmanuel Amoo", "Joseph - Oluwasemilore", "Akpulonu - Chukwuemeka"],
+      "coach": "Mr Solomon",
+      "coachPhone": "7018133444",
+      "director": "Mr Bhadmus",
+      "directorPhone": "8150915222"
+    }
+  ]
+}
